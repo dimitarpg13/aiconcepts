@@ -1,6 +1,6 @@
 # aiconcepts
 
-This repository contains work in progress on the Theory of Semantic Structures. 
+This repository contains **work in progress** on the Theory of Semantic Structures. 
 
 The purpose of the Theory of Semantic Structures is to provide a model which can be used for simulating human thought inference and decision making process. The semantic structures can be viewed as thought-like entities which interactions and inference are subject to analysis in this theory. A realistic model of the semantic structures interactions and creation of new structures will be used to study the evolution of the semantic structures in appropriately designed and tuned simulation environment. 
 
