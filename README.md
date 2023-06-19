@@ -15,5 +15,13 @@ Rules of reinforcement are postulated which strengthen the connections between c
 ## What's Next?
 
 
-## Other Relevant Work
+## Other Relevant Work and Repos
+
+* [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
+
+* [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
+
+* 
+
+
 
