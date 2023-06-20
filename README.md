@@ -21,7 +21,7 @@ Rules of reinforcement are postulated which strengthen the connections between c
 
 * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
 
-* 
+* [Baysian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md) 
 
 
 
