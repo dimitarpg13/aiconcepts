@@ -23,5 +23,6 @@ Rules of reinforcement are postulated which strengthen the connections between c
 
 * [Baysian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md) 
 
+* [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
 
 
