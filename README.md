@@ -3,7 +3,7 @@
 
 This repository contains **work in progress** on the Theory of Semantic Structures. 
 
-The purpose of the Theory of Semantic Structures is to provide a model which can be used for simulating human thought inferences and decision making processes. The semantic structures can be viewed as thought-like entities the interactions and inferences of which are subject to study in this theory. A realistic model of the semantic structures interactions and creation of new structures will be used to study the evolution of the semantic structures in appropriately designed and tuned simulation environment. 
+The purpose of the Theory of Semantic Structures is to provide a model which can be used for simulating human thought inferences and decision making processes. The semantic structures can be viewed as thought-like entities used in modeling the interactions and inferences of which are subject to study in this theory. A realistic model of the semantic structures interactions and creation of new structures will be used to study the evolution of the semantic structures in appropriately designed and tuned simulation environment. 
 
 Semantic structures are abstract entitities which can be represented by directed graphs adorned with additional properties residing in appropriately defined Semantic space which is a metric space. Each node of the semantic directed graph represents a semantic particle which is represented by its position in semantic space. The metric of the semantic space is semantic distance. The closeness of semantic entities maps to the semantic closeness of thoughts which they model.
 
