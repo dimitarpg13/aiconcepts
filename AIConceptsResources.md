@@ -18,6 +18,8 @@
 
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
 
+* [The Distribution and Evolution of Animal Consciousness, Joseph Vitti, Harvard, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Distribution_and_Evolution_of_Animal_Consciousness_Vitti_HarvardU_2010.pdf)
+
 * [Grounded Cognition: Past, Present and Future, L.W. Barsalou, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Grounded_Cognition_Past_Present_and_Future_Barsalou_2010.pdf)
 
 * [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
