@@ -14,6 +14,8 @@
 
 * [Abductive Reasoning as a Way of Worldmaking by H. Fischer, Heidelberg, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Abductive_Reasoning_as_a_Way_of_Worldmaking_fischer.pdf)
 
+* [Natural Language Grammar Induction using Constituent Context Model, Dan Klein and Chris Manning, Stanford U, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/natural-language-grammar-induction-using-a-constituent-context-model.pdf)
+
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
 
 * [Grounded Cognition: Past, Present and Future, L.W. Barsalou, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Grounded_Cognition_Past_Present_and_Future_Barsalou_2010.pdf)
