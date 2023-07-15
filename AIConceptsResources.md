@@ -19,3 +19,5 @@
 * [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
 
 * [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
+
+* [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
