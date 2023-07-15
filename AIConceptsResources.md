@@ -18,4 +18,4 @@
 
 * [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
 
-
+* [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
