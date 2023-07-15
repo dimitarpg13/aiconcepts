@@ -14,4 +14,8 @@
 
 * [Abductive Reasoning as a Way of Worldmaking by H. Fischer, Heidelberg, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Abductive_Reasoning_as_a_Way_of_Worldmaking_fischer.pdf)
 
-* []
+* [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
+
+* [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
+
+
