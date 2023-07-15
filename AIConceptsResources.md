@@ -6,7 +6,7 @@
 
 * [The Probability Of Induction by C.S. Peirce (4th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/TheProbabilityOfInductionPeirce1878.pdf)
 
-* [The Essential Peirce, Selected Philosophical Writings, Vol. 2, The Peirce Foundation Project](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/the-essential-peirce_selected-philosophical-writings-volume-2_1893-1913.pdf)
+* [The Essential Peirce, Selected Philosophical Writings, Vol. 2, The Peirce Foundation Project, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/the-essential-peirce_selected-philosophical-writings-volume-2_1893-1913.pdf)
 
 * [C.S. Peirce and Abduction Inference by A. Beckwith, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/CSPeirce_and_Abduction_Inference.pdf)
 
