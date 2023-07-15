@@ -16,7 +16,11 @@
 
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
 
+* [Grounded Cognition: Past, Present and Future, L.W. Barsalou, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Grounded_Cognition_Past_Present_and_Future_Barsalou_2010.pdf)
+
 * [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
+
+* [Quantum Cognition and Decision Theories-A Tutorial, J.M. Yearsley, J.R. Busemeyer, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Quantum_cognition_and_decision_theories-a_tutorial_YearselyBusemeyerJMP_2015.pdf)
 
 * [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
 
