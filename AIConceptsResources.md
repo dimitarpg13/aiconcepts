@@ -28,4 +28,6 @@
 
 * [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
 
+* [Towards Animal Model of Consciousness Based on the Platform theory, A. Zlomuzica, E. Deere, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Towardsananimalmodelofconsciousness_A.ZlomuzicaandE.Dere2021.pdf)
+
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
