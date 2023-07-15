@@ -26,6 +26,8 @@
 
 * [Quantum Cognition and Decision Theories-A Tutorial, J.M. Yearsley, J.R. Busemeyer, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Quantum_cognition_and_decision_theories-a_tutorial_YearselyBusemeyerJMP_2015.pdf)
 
+* [Bridging Machine Learning and Logical Reasoning by Abductive Learning, Dai et al, 2019, NIPS](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/bridging-machine-learning-and-logical-reasoning-by-abductive-learning-Paper.pdf)
+
 * [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
 
 * [Towards Animal Model of Consciousness Based on the Platform theory, A. Zlomuzica, E. Deere, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Towardsananimalmodelofconsciousness_A.ZlomuzicaandE.Dere2021.pdf)
