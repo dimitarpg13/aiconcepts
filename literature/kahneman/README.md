@@ -1,6 +1,6 @@
 # kahneman
 
-This repo is dedicated to the book of Daniel Kahneman **"Thinking Fast and Slow"** as well as the common work of Daniel Kahneman and Amos Tversky.
+This folder contains material on the book of Daniel Kahneman **"Thinking Fast and Slow"** as well as the common work of Daniel Kahneman and Amos Tversky.
 
 Related to the topics discussed in the book is a very interesting conversation between Daniel Kahneman and Yann LeCun on the topic of understanding/deconstructing human intelligence:
 
