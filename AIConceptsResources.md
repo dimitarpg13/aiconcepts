@@ -34,7 +34,7 @@
 
 * [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, Marcus Lewis, et al, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thousand_brains_hypothesis/FrameworkforIntelligenceandCorticalFunctionBasedonGridCellsintheNeocortexHawkins2019.pdf)
 
-* [The Thousand Brains Theory of Intelligence slides, Jeff Hawkins, Microsoft](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thousand_brains_hypothesis/TheThousandBrainsTheoryOfIntelligenceMicrosoft2019.pdf)
+* [The Thousand Brains Theory of Intelligence slides, Jeff Hawkins, Microsoft, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thousand_brains_hypothesis/TheThousandBrainsTheoryOfIntelligenceMicrosoft2019.pdf)
 
 * [Will We Ever Have Conscious Machines? Krauss and Maier, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/WillWeEverHaveConsciousMachines.pdf)
 
