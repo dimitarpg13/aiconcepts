@@ -37,3 +37,7 @@
 * [Towards Animal Model of Consciousness Based on the Platform theory, A. Zlomuzica, E. Deere, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Towardsananimalmodelofconsciousness_A.ZlomuzicaandE.Dere2021.pdf)
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
+
+## videos
+
+* [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research](https://www.youtube.com/watch?v=5LFo36g4Lug)
