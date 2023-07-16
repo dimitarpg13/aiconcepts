@@ -2,7 +2,7 @@
 
 ## books
 
-* [Thinking Fast and Slow, Daniel Kahneman]()
+* [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
 ## articles and papers
 
