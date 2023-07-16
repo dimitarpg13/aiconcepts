@@ -22,6 +22,12 @@
 
 * [Procedures as a Representation for Data in A Computer Program For Understanding Natural Language, Terry Winograd, MIT, 1971](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AITR-235_DataRepresentationForUnderstandingNLP.pdf)
 
+* [Availability: A Heuristic for Judging Frequency and Probability, Amost Tversky, Daniel Kahneman, 1973](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/TverskyKahneman1973.pdf)
+
+* [Judgement under Certainty: Heuristics and Biases, Amos Tversky, Daniel Kahneman, 1974](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/TverskyKahneman1974.pdf)
+
+* [Prospect Theory: An Analysis of Decision Under Risk, Daniel Kahneman, Amos Tversky, 1979](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/KahnemanTversky1979.pdf)
+
 * [Natural Language Grammar Induction using Constituent Context Model, Dan Klein and Chris Manning, Stanford U, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/natural-language-grammar-induction-using-a-constituent-context-model.pdf)
 
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
