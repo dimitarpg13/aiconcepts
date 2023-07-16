@@ -28,3 +28,5 @@ Rules of reinforcement are postulated which strengthen the connections between c
 * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
 * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
+
+* [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
