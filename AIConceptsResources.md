@@ -1,5 +1,9 @@
 # Resource on AI Concepts
 
+## books
+
+* [Thinking Fast and Slow, Daniel Kahneman]()
+
 ## articles and papers
 
 * [Deduction, Induction, and Hypothesis by C.S. Peirce (6th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/DeductionInductionAndHypothesisPeirce1878.pdf)
@@ -44,4 +48,8 @@
 
 ## videos
 
-* [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research](https://www.youtube.com/watch?v=5LFo36g4Lug)
+* [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
+
+* [Daniel Kahneman and Yann LeCun: How To Get AI To Think Like Humans, 2021](https://www.youtube.com/watch?v=oy9FhisFTmI)
+
+* [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
