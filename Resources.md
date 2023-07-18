@@ -46,6 +46,8 @@
 
 * [Homing in on consciousness in the nervous system: An action-based synthesis, E. Morsella et al, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/homing-in-on-consciousness-in-the-nervous-system-an-action-based-synthesis-Morsella_2015.pdf)
 
+* [Attention is All You Need, Vaswani, A., 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/AttentionIsAllYouNeed.pdf)
+
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning, Dai et al, 2019, NIPS](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/bridging-machine-learning-and-logical-reasoning-by-abductive-learning-Paper.pdf)
 
 * [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex, Jeff Hawkins, Marcus Lewis, et al, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thousand_brains_hypothesis/FrameworkforIntelligenceandCorticalFunctionBasedonGridCellsintheNeocortexHawkins2019.pdf)
