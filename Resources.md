@@ -28,6 +28,8 @@
 
 * [Prospect Theory: An Analysis of Decision Under Risk, Daniel Kahneman, Amos Tversky, 1979](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/KahnemanTversky1979.pdf)
 
+* [On The Computational Power Of Neural Nets, Hava Siegelmann, Eduardo Sontag, 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/OnTheComputationalPowerOfNeuralNets_1992_Siegelmann.pdf)
+
 * [A Bayesian Framework For Concept Learning, Joshua Tenenbaum, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianInference/BayesianFrameworkForConceptLearningTanenbaum1999.pdf)
 
 * [Natural Language Grammar Induction using Constituent Context Model, Dan Klein and Chris Manning, Stanford U, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/natural-language-grammar-induction-using-a-constituent-context-model.pdf)
