@@ -38,6 +38,8 @@
 
 * [Grounded Cognition: Past, Present and Future, L.W. Barsalou, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Grounded_Cognition_Past_Present_and_Future_Barsalou_2010.pdf)
 
+* [Generative Adversarial Nets, Ian Goodfellow, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GAN/Generative_Adversarial_Nets_Goodfellow_2014.pdf)
+
 * [Consciousness as a State of Matter, Max Tegmark, MIT, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ConsciousnessAsAStateOfMatterTegmark2015.pdf)
 
 * [Quantum Cognition and Decision Theories-A Tutorial, J.M. Yearsley, J.R. Busemeyer, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Quantum_cognition_and_decision_theories-a_tutorial_YearselyBusemeyerJMP_2015.pdf)
