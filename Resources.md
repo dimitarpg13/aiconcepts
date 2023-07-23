@@ -77,3 +77,21 @@
 * [Daniel Kahneman and Yann LeCun: How To Get AI To Think Like Humans, 2021](https://www.youtube.com/watch?v=oy9FhisFTmI)
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
+
+## Other Relevant Work
+ 
+ * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/            ReinforcementLearningAndGameTheoryResources.md)
+ 
+ * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
+ 
+ * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
+ 
+ * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces. md)
+ 
+ * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/                             LearningBayesianNetworksResources.md)
+ 
+ * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/            ProbabilisticMachineLearningResources.md)
+ 
+ * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/                           root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
+ 
+ * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)

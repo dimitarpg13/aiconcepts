@@ -19,6 +19,10 @@ Rules of reinforcement are postulated which strengthen the connections between c
 
 * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
+* [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
+
+* [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
+
 * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
 
 * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md) 
@@ -29,4 +33,3 @@ Rules of reinforcement are postulated which strengthen the connections between c
 
 * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
 
-* [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
