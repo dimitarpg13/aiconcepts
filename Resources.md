@@ -78,7 +78,7 @@
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
-## Other Relevant Work
+[## Other Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
@@ -95,3 +95,4 @@
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
+](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md
