@@ -1,4 +1,4 @@
-# Resource on AI Concepts
+# Resource on Thought Forming, Consciousness, Inteligent Machines, Inference, Logic Systems
 
 ## books
 
