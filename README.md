@@ -16,7 +16,7 @@ Rules of reinforcement are postulated which strengthen the connections between c
 
 
 ## Relevant Work 
- * [Thought Forming, Consciousness, Inteligent Machines, Inference, Logic](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+ * [Thought Forming, Consciousness, Inteligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
