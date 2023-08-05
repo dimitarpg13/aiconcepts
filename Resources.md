@@ -72,6 +72,12 @@
 
 * [Awareness, F. Bizzarri, Chiara Mocenni, University of Sienna, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Awareness.pdf)
 
+## medium
+
+* [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
+
+* [A Physicist's View: The Thermodynamics of Machine Learning with Tim Lou](https://towardsdatascience.com/a-physicists-view-of-machine-learning-the-thermodynamics-of-machine-learning-6a3ab00e46f1)
+
 ## videos
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
