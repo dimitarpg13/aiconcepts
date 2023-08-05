@@ -72,6 +72,8 @@
 
 * [Awareness, F. Bizzarri, Chiara Mocenni, University of Sienna, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Awareness.pdf)
 
+* [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning, Liu et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ReinforcementLearning/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
