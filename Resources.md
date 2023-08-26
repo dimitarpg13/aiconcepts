@@ -4,9 +4,9 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-* [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/       dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
- 
- * [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/    master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002. pdf)
+* [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
+
+* [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002. pdf)
 
 ## articles and papers
 
