@@ -4,6 +4,10 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
+* [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/       dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
+ 
+ * [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/    master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002. pdf)
+
 ## articles and papers
 
 * [Deduction, Induction, and Hypothesis by C.S. Peirce (6th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/DeductionInductionAndHypothesisPeirce1878.pdf)
@@ -79,10 +83,6 @@
 * [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
-
-* [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
-
-* [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002.pdf)
 
 ## medium
 
