@@ -74,6 +74,16 @@
 
 * [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning, Liu et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ReinforcementLearning/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
 
+* [Noether's Theorem, Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)
+
+* [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
+
+* [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
+
+* [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
+
+* [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
