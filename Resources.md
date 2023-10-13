@@ -84,6 +84,8 @@
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
 
+* [Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't, Srivas Chennu et al, J. Neurosci., 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Chennu_et_al-2016-The_Journal_of_Neuroscience-VoR.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
