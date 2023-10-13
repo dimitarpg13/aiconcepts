@@ -92,6 +92,12 @@
 
 * [A Physicist's View: The Thermodynamics of Machine Learning with Tim Lou](https://towardsdatascience.com/a-physicists-view-of-machine-learning-the-thermodynamics-of-machine-learning-6a3ab00e46f1)
 
+* [RLHF: Reinforcement Learning from Human Feedback with Ms Aerin](https://automata88.medium.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1)
+
+    related paper: [Training language models to follow instructions with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ReinforcementLearning/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
+
+    related python code: https://github.com/lucidrains/PaLM-rlhf-pytorch/tree/main
+
 ## videos
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
