@@ -86,6 +86,8 @@
 
 * [Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't, Srivas Chennu et al, J. Neurosci., 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Chennu_et_al-2016-The_Journal_of_Neuroscience-VoR.pdf)
 
+* [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
