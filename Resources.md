@@ -72,6 +72,8 @@
 
 * [Neural and behavioral effects of typicality, denotation, and composition in an adjective-noun combination task, I. Fritz, G. Baggio, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Neural_and_behavioural_effects_of_typicality_denotation_and_composition_in_an_adjective%E2%80%93noun_combination_task_Fritz_2021.pdf)
 
+* [Artificial Intelligence is stupid and causal inference will not fix it, J.M. Bishop, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AI_is_stupid_and_causal_reasoning_will_not_fix_it_Bishop_2021.pdf)
+
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
 
 * [Awareness, F. Bizzarri, Chiara Mocenni, University of Sienna, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Awareness.pdf)
