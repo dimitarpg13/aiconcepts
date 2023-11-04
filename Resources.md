@@ -24,7 +24,7 @@
 
 * [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002.pdf)
 
-## articles and papers
+## More articles
 
 * [Deduction, Induction, and Hypothesis by C.S. Peirce (6th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/DeductionInductionAndHypothesisPeirce1878.pdf)
 
