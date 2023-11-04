@@ -1,18 +1,17 @@
 # Resource on Thought Forming, Consciousness, Inteligent Machines, Inference, Logic Systems
 
-## books
 
-### Understaning Cognition and Thought Formation
+## Understaning Cognition and Thought Formation
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-### Physics-inspired Modeling
+## Physics-inspired Modeling
 
 * [Quantum Models of Cognition and Decision, Jerome Busemeyer, Peter Burza, 2012, 1st edition](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_Models_of_Cognition_and_Decision_Busemeyer_book_2012.pdf)
 
 * [Physical Theory and Its Interpetation Essays in Honor of Jeffrey Bub, W. Demopoulos, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Physical_Theory_and_its_Interpretation_Essays_in_Honor_of_Jeffrey_Bub_Demopulous_2006.pdf)
 
-### Mathematical Apparatus and Tools
+## Mathematical Apparatus and Tools
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
 
