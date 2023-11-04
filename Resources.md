@@ -16,6 +16,10 @@
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
 
+* [Digraphs: Theory, Algorithms, Applications, Jorgen Bang-Jensen, Gregory Gutin, 2007](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GraphTheory/DigraphsTheoryAlgorithmsApplicationsJensen2007.pdf)
+
+* [Theory of Games and Statistical Decisions, David Blackwell, 1954](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
+
 * [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
 
 * [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002.pdf)
