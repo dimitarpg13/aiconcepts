@@ -19,9 +19,27 @@
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
 
-### Graph Neural Networks
+### Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
+
+* [ULTRA: Foundation Models for Knowledge Graph Reasoning, M. Galkin, Medium](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)
+
+* [The Graph Neural Network Model, F. Scarcelli et al, U of Sienna, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/TheGraphNeuralNetworkModelScarselli2009.pdf)
+
+* [A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs, X. Huang et al, Oxford U, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/A_Theory_of_Link_Prediction_via_Relational_Weisfeiler-Leman_on_Knowledge_Graphs_Huang_Oxford_2023.pdf)
+
+* [Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types, J. Gao et al, Purdue U, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Double_Equivariance_for_Inductive_Link_Prediction_for_Both_New_Nodes_and_New_Relation_Types_Gao_PurdueU_2023.pdf)
+
+* [Edge Directionality Improves Learning on Heterophilic Graphs, Rossi et al, Imperial College, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Edge_Directionality_Improves_Learning_on_Heterophilic_Graphs_Rossi_2023.pdf)
+
+* [How Powerful are Graph Neural Networks? K. Xu et al, MIT, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/How_Powerful_are_Graph_Neural_Networks_Xu_MIT_2019.pdf)
+
+* [On The Equivalence Between Positional Node Embeddings and Structural Graph Representation, Srinivasan et al, Purdue U., 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/On_the_Equivalence_between_Positional_Node_Embeddings_and_Structural_Graph_Representations_Srinivasa_ISLR_2020.pdf)
+
+* [Towards Foundation Models for Knowledge Graph Reasoning, M. Galkin et al, Intel AI Lab, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Towards_Foundation_Models_for_Knowledge_Graph_Reasoning_Galkin_2023.pdf)
+
+* [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks, C Morris et al, TU Dortmund, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Weisfeiler_and_Leman_Go_Neural-Higher-order_Graph_Neural_Networks_Morris_2018.pdf)
 
 ## Mathematical Apparatus and Tools
 
