@@ -41,6 +41,10 @@
 
 * [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks, C Morris et al, TU Dortmund, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Weisfeiler_and_Leman_Go_Neural-Higher-order_Graph_Neural_Networks_Morris_2018.pdf)
 
+* [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction, Zhu et al, Quebec AI Inst., 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Neural_Bellman-Ford_Networks-A_General_Graph_Neural_Network_Framework_for_Link_Prediction_Quebec_AI_Inst_Zhu_2022.pdf)
+
+* [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs, M. Galkin et al, McGill, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/NodePiece-Compositional_and_Parameter-Efficient_Representations_of_Large_Knowledge_Graphs_Galkin_McGill_2022.pdf)
+
 ## Mathematical Apparatus and Tools
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
