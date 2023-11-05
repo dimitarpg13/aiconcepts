@@ -9,6 +9,8 @@
 
 * [Physical Theory and Its Interpetation Essays in Honor of Jeffrey Bub, W. Demopoulos, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Physical_Theory_and_its_Interpretation_Essays_in_Honor_of_Jeffrey_Bub_Demopulous_2006.pdf)
 
+* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
 ### Quantum Cognition
 
 * [Quantum Models of Cognition and Decision, Jerome Busemeyer, Peter Burza, 2012, 1st edition](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_Models_of_Cognition_and_Decision_Busemeyer_book_2012.pdf)
@@ -16,6 +18,10 @@
 * [Quantum Cognition and Decision Theories-A Tutorial, J.M. Yearsley, J.R. Busemeyer, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_cognition_and_decision_theories-a_tutorial_YearselyBusemeyerJMP_2015.pdf)
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
+
+### Graph Neural Networks
+
+* [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
 
 ## Mathematical Apparatus and Tools
 
