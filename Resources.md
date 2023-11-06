@@ -135,6 +135,9 @@
 
 * [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
 
+* [Statistical Complexity of Boolean Cellular
+Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
