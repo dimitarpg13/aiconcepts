@@ -19,7 +19,7 @@
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
 
-### Modeling Reasoning via Graph Neural Networks
+## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
 
@@ -45,6 +45,15 @@
 
 * [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs, M. Galkin et al, McGill, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/NodePiece-Compositional_and_Parameter-Efficient_Representations_of_Large_Knowledge_Graphs_Galkin_McGill_2022.pdf)
 
+## Modeling via Celullar Automata
+
+* [Statistical Mechanics of Cellular Automata, S. Wolfram, 1983](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/statistical-mechanics-cellular-automata.pdf)
+
+* [Universality and Complexity in Celullar Automata, S. Wolfram, 1984](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/universality-complexity-cellular-automata.pdf)
+
+* [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular_Automata_with_Short-Term_Reaction-Diffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
+
+
 ## Mathematical Apparatus and Tools
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
@@ -62,6 +71,7 @@
 * [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
+
 
 ## More articles
 
