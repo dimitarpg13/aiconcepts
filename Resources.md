@@ -57,6 +57,12 @@
 
 * [Introduction to Symmetry Analysis, Cantwell, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Introduction_to_Symmetry_Analysis-Brian_Cantwell_2002.pdf)
 
+* [Noether's Theorem, Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)
+
+* [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
+
+* [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
+
 ## More articles
 
 * [Deduction, Induction, and Hypothesis by C.S. Peirce (6th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/DeductionInductionAndHypothesisPeirce1878.pdf)
@@ -125,18 +131,11 @@
 
 * [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning, Liu et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ReinforcementLearning/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
 
-* [Noether's Theorem, Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)
-
-* [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
-
-* [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
-
 * [Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't, Srivas Chennu et al, J. Neurosci., 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Chennu_et_al-2016-The_Journal_of_Neuroscience-VoR.pdf)
 
 * [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
 
-* [Statistical Complexity of Boolean Cellular
-Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
+* [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
 ## medium
 
