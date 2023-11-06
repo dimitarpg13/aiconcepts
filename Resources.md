@@ -53,6 +53,14 @@
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular_Automata_with_Short-Term_Reaction-Diffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
+## Associative Memory models
+
+* [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
+
+* [Neural Associative Memory and Sparse Coding, G. Palm, U of Ulm, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Neural_associative_memories_and_sparse_coding_Palm_2013.pdf)
+
+* [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
+
 
 ## Mathematical Apparatus and Tools
 
