@@ -167,6 +167,10 @@
 
     related python code: https://github.com/lucidrains/PaLM-rlhf-pytorch/tree/main
 
+* [How to Convert Any Text Into a Graph of Concepts with Rahul Nayak](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)
+
+    related repo: https://github.com/rahulnyk/knowledge_graph
+
 ## videos
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
