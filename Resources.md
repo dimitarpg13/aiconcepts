@@ -171,6 +171,26 @@
 
     related repo: https://github.com/rahulnyk/knowledge_graph
 
+* [What If We Could Easily Explain Overly Complex Models? with Raphael Mazzine](https://towardsdatascience.com/what-if-we-could-easily-explain-overly-complex-models-54a8ff7ac917)
+
+    related repo: https://github.com/rmazzine/CFNOW
+
+    related repo: https://github.com/marcotcr/lime
+
+    related repo: https://github.com/shap/shap
+
+    related paper: [A Framework and Benchmarking Study for Counterfactual
+Generating Methods on Tabular Data, R. Oliveira et al, Appli. Sci., 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/A_Framework_and_Benchmarking_Study_for_Counterfactual_Generating_Methods_on_Tabular_Data_Oliveira_2021.pdf)
+
+    related paper: [Calculating and Visualizing Counterfactual Feature Importance Values, B. Meulemeester et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Calculating_and_Visualizing_Counterfactual_Feature_Importance_Values_MueleMeester_2023.pdf)
+
+    related paper: [Counterfactual Explanations and Algorithmic Recourses for
+Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Counterfactual_Explanations_and_Algorithmic_Recourses_for_Machine_Learning-A_Review_Verma_2021.pdf)
+
+    related paper: [Explaining Data Driven Decisions made by AI systems: The Counterfactural Approach, C. Fernandez-Loria et al, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Explaining_Data-Driven_Decisions_made_by_AI_Systems-The_Counterfactual_Approach_Fernandez-Loria_2021.pdf)
+
+    related paper: [Explaining Data-Driven Document Classifications, D. Martens et al, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Explaining_Data-Driven_Document_Classifications_Martens_2014.pdf)
+
 ## videos
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
