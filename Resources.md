@@ -61,6 +61,11 @@
 
 * [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
 
+## Recent Advances in Large Language Models and Transformer-based architectures
+
+* [Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks, M. Mitchell et al, Santa Fe Institute, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Comparing_Humans_GPT-4_and_GPT-4V_On_Abstraction_and_Reasoning_Tasks_Mitchell_SanteFe_2023.pdf)
+
+* [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
 
 ## Mathematical Apparatus and Tools
 
@@ -150,8 +155,6 @@
 * [Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning, Liu et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ReinforcementLearning/Simple_Embodied_Language_Learning_as_a_Byproduct_of_Meta-Reinforcement_Learning_Liu_2023.pdf)
 
 * [Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't, Srivas Chennu et al, J. Neurosci., 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Chennu_et_al-2016-The_Journal_of_Neuroscience-VoR.pdf)
-
-* [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
