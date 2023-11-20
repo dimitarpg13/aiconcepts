@@ -211,7 +211,7 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
 
-## Singular Learning Theory seminar at MetaUni.org
+## Singular Learning Theory and seminars at MetaUni.org
 
 Main URL with presentations and literature: https://metauni.org/slt/
 
@@ -281,7 +281,17 @@ Open Problems: https://www.youtube.com/watch?v=ZdB0pWyPaFo
 
 Newton Diagrams in Singular Learning Theory: https://www.youtube.com/watch?v=0FowiD36jwg
 
+### articles on Singular Learning Theory
 
+* [Structural Degeneracy of Neural Networks, Matthew Farrugia-Roberts, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Structural_Degeneracy_in_Neural_Networks_Farrugia-Roberts_UoMelbourne_2022.pdf)
+
+* [Mathematical Theory of Bayesian Statistics for Unknown Information Source, Sumio Watanabe, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Mathematical_Theory_of_Bayesian_Statistics_for_Unknown_Information_Source_Sumio_Watanabe_2023.pdf)
+
+* [Singular Learning Theory: Connecting Algebraic Geometry and Model Selection in Statistics, R. Steele, Bernd Sturmfels, Sumio Watanabe,  Workshop](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Singular_learning_theory-connecting_algebraic_geometry_and_model_selection_in_statistics_Steele.pdf)
+
+* [A Mathematical Theory of Semantic Development in DNNs, Adrew Saxe et al, PNAS, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/saxe-et-al-2019-a-mathematical-theory-of-semantic-development-in-deep-neural-networks.pdf)
+
+* [Singular Learning Theory, Sumio Watanabe, presentation](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/slt202301_Sumio_Watanabe.pdf)
 
 ## Other Relevant Work
  
