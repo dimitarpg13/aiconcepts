@@ -67,6 +67,14 @@
 
 * [Large Language Models Can Learn Rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
 
+* [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes, S. Garg, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/What_Can_Transformers_Learn_In-Context_A_Case_Study_of_Simple_Function_Classes_Garg_2023.pdf)
+
+* [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions, S. Bhattamishra, Oxford U., 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Understanding_In-Context_Learning_in_Transformers_and_LLMs_by_Learning_to_Learn_Discrete_Functions_Bhattamishra_2023.pdf)
+
+* [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
+
+* [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
+
 ## Mathematical Apparatus and Tools
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
