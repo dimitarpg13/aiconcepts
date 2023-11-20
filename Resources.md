@@ -210,6 +210,79 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
+
+## Singular Learning Theory seminar at MetaUni.org
+
+Main URL with presentations and literature: https://metauni.org/slt/
+
+Handwritten notes on Singular Learning Theory: http://www.therisingsea.org/notes/metauni/
+
+### Seminars in 2022
+
+What is Learning? Singularities and Pendulums: https://www.youtube.com/watch?v=QZG40ZY5TeU
+
+Fisher Information Matrix: https://www.youtube.com/watch?v=yniLt7ONj28
+
+Fisher Information, KL-divergence and singular models: https://www.youtube.com/watch?v=U9bnkWuFSSM
+
+Markov Chain Monte Carlo: https://www.youtube.com/watch?v=Ns4w0vtWt4A
+
+In-context learning: https://www.youtube.com/watch?v=Vqmcn1q7VL0
+
+In-context learning in Transformers: https://www.youtube.com/watch?v=Y00HtwKO3BY
+
+Neural networks and the Bayesian posterior: https://www.youtube.com/watch?v=1Esk7G3g5X8
+
+Rings, ideals and the Hilbert basis theorem: https://www.youtube.com/watch?v=g1tXe9Yrij8
+
+From Analytic to Algebraic part I: https://www.youtube.com/watch?v=5Gkzg-zTwv4
+
+Resolution of singularities: https://www.youtube.com/watch?v=ssU8VZ50Wd8
+
+Introduction to density of states: https://www.youtube.com/watch?v=HXCpQWZfWIw
+
+Polynomial division: https://www.youtube.com/watch?v=nNMCix6UCJ0
+
+From Analytic to Algebraic part II: https://www.youtube.com/watch?v=tsZjeclrmuU
+
+Asymptotics of Free Energy: https://www.youtube.com/watch?v=QBaJH5QRAA8
+
+From Analytic to Algebraic part III: https://www.youtube.com/watch?v=LWylEE5M9lc
+
+Regularly Parametrised Models: https://www.youtube.com/watch?v=T8Lgvt0mfuY
+
+Bounding the Partition Function: https://www.youtube.com/watch?v=7x16e4yHsHg
+
+The Influence of Sampling: https://www.youtube.com/watch?v=JyZnMinS86Q&feature=youtu.be
+
+Main Theorem 1: https://www.youtube.com/watch?v=70UtL7pfxNo
+
+Main Theorem 2: https://www.youtube.com/watch?v=qE3v1044BwU&feature=youtu.be
+
+Complexity of Rank Estimation: https://www.youtube.com/watch?v=s2bgR_t3aGM
+
+Piecewise Linear Paths in Equivalent Neural Networks: https://www.youtube.com/watch?v=WBiFFIhGIZM
+
+Minimal Introduction to the Geometry of Tanh Networks: https://www.youtube.com/watch?v=EgqwUsJTumU
+
+Entropy and the KL divergence: https://www.youtube.com/watch?v=EgqwUsJTumU
+
+The Kraft-McMillan Theorem: https://www.youtube.com/watch?v=N30wJhaO68k
+
+Asymptotic Learning Curve and the Renormalisable Condition: https://www.youtube.com/watch?v=N30wJhaO68k
+
+Intro to Blowing Up: https://www.youtube.com/watch?v=CWNaKMP8Teo
+
+State of Scaling Laws: https://www.youtube.com/watch?v=7LzW8-wxdUE
+
+In-context Learning: https://www.youtube.com/watch?v=Vqmcn1q7VL0
+
+Open Problems: https://www.youtube.com/watch?v=ZdB0pWyPaFo
+
+Newton Diagrams in Singular Learning Theory: https://www.youtube.com/watch?v=0FowiD36jwg
+
+
+
 ## Other Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
