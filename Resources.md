@@ -65,6 +65,8 @@
 
 * [Generative Agents: Interactive Simulacra of Human Behavior, J. Park et al, Stanford U., 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/MultiAgentSimulation/Generative_Agents-Interactive_Simulacra_of_Human_Behavior_Park_2023.pdf)
 
+    related repo: https://github.com/joonspk-research/generative_agents
+
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
