@@ -107,7 +107,6 @@
 
 * [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
 
-* [Theory of Games and Statistical Decisions, D. Blackwell, M. Girshick, 1954](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
 
 ## More articles
 
