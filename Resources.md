@@ -61,11 +61,15 @@
 
 * [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
 
-## Multi-Agent models
+## Multi-Agent models and Game theoretical Approaches
+
+* [Statistical Mechanics of Systems with Heterogenous Agents: Minority Games, Damien Challet et al, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Statistical_mechanics_of_systems_with_heterogeneous_agents-Minority_Games_Challet_1999.pdf)
 
 * [Generative Agents: Interactive Simulacra of Human Behavior, J. Park et al, Stanford U., 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/MultiAgentSimulation/Generative_Agents-Interactive_Simulacra_of_Human_Behavior_Park_2023.pdf)
 
     related repo: https://github.com/joonspk-research/generative_agents
+
+* [Student of Games: A Unified Learning Algorithm for Both Perfect and Imperfect Information Games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmidt_2023.pdf)
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
@@ -101,6 +105,9 @@
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
 
+* [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
+
+* [Theory of Games and Statistical Decisions, D. Blackwell, M. Girshick, 1954](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
 
 ## More articles
 
