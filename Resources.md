@@ -65,6 +65,8 @@
 
 * [The Math of Emergence, Felipe Cucker et al, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/math-of-emergence_Cocker_2011.pdf)
 
+* [Understanding Self-Organising Map Neural Network with Python Code, Ken Moriwaki, article in Towards Data Science, 2022](https://towardsdatascience.com/understanding-self-organising-map-neural-network-with-python-code-7a77f501e985)
+
 * [Self-Organized Formation of Topologically Correct Feature Maps, Teuvo Kohonen, 1982](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-Organized_Formation_of_Topologically_Correct_Feature_Maps_Kohonen_1982.pdf)
 
 * [The Self-Organizing Map, Teuvo Kohonen, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/TheSelfOrganizingMap_1990-Kohonen-PIEEE.pdf)
