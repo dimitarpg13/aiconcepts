@@ -5,7 +5,7 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-## Physics-inspired Modeling
+## Physics-Inspired Modeling
 
 * [Physical Theory and Its Interpetation Essays in Honor of Jeffrey Bub, W. Demopoulos, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Physical_Theory_and_its_Interpretation_Essays_in_Honor_of_Jeffrey_Bub_Demopulous_2006.pdf)
 
@@ -81,7 +81,7 @@
 
 * [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
 
-## Multi-Agent models and Game theoretical Approaches
+## Multi-Agent models and Game-Theoretical Approaches
 
 * [Statistical Mechanics of Systems with Heterogenous Agents: Minority Games, Damien Challet et al, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Statistical_mechanics_of_systems_with_heterogeneous_agents-Minority_Games_Challet_1999.pdf)
 
