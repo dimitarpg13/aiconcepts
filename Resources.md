@@ -53,6 +53,24 @@
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular_Automata_with_Short-Term_Reaction-Diffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
+## Emergent Phenomena and Self-Organization
+
+* [The Origins of Order: Self-Organization and Selection in Evolution, Stuart A. Kauffman, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/The_Origins_Of_Order_Stuart_Kaufman_1993.pdf)
+
+* [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings, Jascha Achterberg et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Spatially_embedded_recurrent_neural_networks_reveal_widespread_links_between_structural_and_functional_neuroscience_findings_Achterberg_2023.pdf)
+
+* [Self-organized criticality in neural networks, M.I. Katsnelson et al, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-organized_criticality_in_neural_networks_Katsnelson_2021.pdf)
+
+* [Self‑organizing neural network for reproducing human postural mode alternation through deep reinforcement learning, Keli Shen et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self%E2%80%91organizing_neural_network_for_reproducing_human_postural_mode_alternation_through_deep_reinforcement_learning_Shen_2023.pdf)
+
+* [The Math of Emergence, Felipe Cucker et al, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/math-of-emergence_Cocker_2011.pdf)
+
+* [Self-Organized Formation of Topologically Correct Feature Maps, Teuvo Kohonen, 1982](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-Organized_Formation_of_Topologically_Correct_Feature_Maps_Kohonen_1982.pdf)
+
+* [The Self-Organizing Map, Teuvo Kohonen, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/TheSelfOrganizingMap_1990-Kohonen-PIEEE.pdf)
+
+* [Associative Self-Organizing Map, Magnus Johnsson, Germund Hesslow, David Gil, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/AssociativeSelfOrganizingMap_Jonsson_2011.pdf)
+
 ## Associative Memory models
 
 * [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
