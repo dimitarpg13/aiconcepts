@@ -40,5 +40,4 @@ Rules of reinforcement are postulated which strengthen the connections between c
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
- * [AI Concepts](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
