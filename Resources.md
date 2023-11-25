@@ -109,11 +109,11 @@
 
 ## Singular Learning Theory and seminars at MetaUni.org
 
-Main URL with presentations and literature: https://metauni.org/slt/
+* [Main URL with presentations and literature](https://metauni.org/slt/)
 
-Handwritten notes on Singular Learning Theory: http://www.therisingsea.org/notes/metauni/
+* [Handwritten notes on Singular Learning Theory](http://www.therisingsea.org/notes/metauni/)
 
-Seminars on Singular Learning Theory: [here](https://github.com/dimitarpg13/aiconcepts/blob/master/SingularLearningTheorySeminars.md)
+* [Seminars on Singular Learning Theory](https://github.com/dimitarpg13/aiconcepts/blob/master/SingularLearningTheorySeminars.md)
 
 ### articles on Singular Learning Theory
 
