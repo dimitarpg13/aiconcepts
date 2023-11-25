@@ -107,6 +107,26 @@
 
 * [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
 
+## Singular Learning Theory and seminars at MetaUni.org
+
+Main URL with presentations and literature: https://metauni.org/slt/
+
+Handwritten notes on Singular Learning Theory: http://www.therisingsea.org/notes/metauni/
+
+Seminars on Singular Learning Theory: [here](https://github.com/dimitarpg13/aiconcepts/blob/master/SingularLearningTheorySeminars.md)
+
+### articles on Singular Learning Theory
+
+* [Structural Degeneracy of Neural Networks, Matthew Farrugia-Roberts, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Structural_Degeneracy_in_Neural_Networks_Farrugia-Roberts_UoMelbourne_2022.pdf)
+
+* [Mathematical Theory of Bayesian Statistics for Unknown Information Source, Sumio Watanabe, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Mathematical_Theory_of_Bayesian_Statistics_for_Unknown_Information_Source_Sumio_Watanabe_2023.pdf)
+
+* [Singular Learning Theory: Connecting Algebraic Geometry and Model Selection in Statistics, R. Steele, Bernd Sturmfels, Sumio Watanabe,  Workshop](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Singular_learning_theory-connecting_algebraic_geometry_and_model_selection_in_statistics_Steele.pdf)
+
+* [A Mathematical Theory of Semantic Development in DNNs, Adrew Saxe et al, PNAS, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/saxe-et-al-2019-a-mathematical-theory-of-semantic-development-in-deep-neural-networks.pdf)
+
+* [Singular Learning Theory, Sumio Watanabe, presentation](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/slt202301_Sumio_Watanabe.pdf)
+
 ## Mathematical Apparatus and Tools
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
@@ -243,87 +263,4 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [Daniel Kahneman and Yann LeCun: How To Get AI To Think Like Humans, 2021](https://www.youtube.com/watch?v=oy9FhisFTmI)
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
-
-
-## Singular Learning Theory and seminars at MetaUni.org
-
-Main URL with presentations and literature: https://metauni.org/slt/
-
-Handwritten notes on Singular Learning Theory: http://www.therisingsea.org/notes/metauni/
-
-### Seminars in 2022
-
-What is Learning? Singularities and Pendulums: [youtube video](https://www.youtube.com/watch?v=QZG40ZY5TeU)
-
-Fisher Information Matrix: [youtube video](https://www.youtube.com/watch?v=yniLt7ONj28)
-
-Fisher Information, KL-divergence and singular models: [youtube video](https://www.youtube.com/watch?v=U9bnkWuFSSM)
-
-Markov Chain Monte Carlo: [youtube video](https://www.youtube.com/watch?v=Ns4w0vtWt4A)
-
-In-context learning: [youtube video](https://www.youtube.com/watch?v=Vqmcn1q7VL0)
-
-In-context learning in Transformers: [youtube video](https://www.youtube.com/watch?v=Y00HtwKO3BY)
-
-Neural networks and the Bayesian posterior: [youtube video](https://www.youtube.com/watch?v=1Esk7G3g5X8)
-
-Rings, ideals and the Hilbert basis theorem: [youtube videos](https://www.youtube.com/watch?v=g1tXe9Yrij8)
-
-From Analytic to Algebraic part I: [youtube videos](https://www.youtube.com/watch?v=5Gkzg-zTwv4)
-
-Resolution of singularities: [youtube video](https://www.youtube.com/watch?v=ssU8VZ50Wd8)
-
-Introduction to density of states: [youtube video](https://www.youtube.com/watch?v=HXCpQWZfWIw)
-
-Polynomial division: [youtube video](https://www.youtube.com/watch?v=nNMCix6UCJ0)
-
-From Analytic to Algebraic part II: [youtube video](https://www.youtube.com/watch?v=tsZjeclrmuU)
-
-Asymptotics of Free Energy: [youtube video](https://www.youtube.com/watch?v=QBaJH5QRAA8)
-
-From Analytic to Algebraic part III: [youtube video](https://www.youtube.com/watch?v=LWylEE5M9lc)
-
-Regularly Parametrised Models: [youtube video](https://www.youtube.com/watch?v=T8Lgvt0mfuY)
-
-Bounding the Partition Function: [youtube video](https://www.youtube.com/watch?v=7x16e4yHsHg)
-
-The Influence of Sampling: [youtube video](https://www.youtube.com/watch?v=JyZnMinS86Q)
-
-Main Theorem 1: [youtube video](https://www.youtube.com/watch?v=70UtL7pfxNo)
-
-Main Theorem 2: [youtube video](https://www.youtube.com/watch?v=qE3v1044BwU)
-
-Complexity of Rank Estimation: [youtube video](https://www.youtube.com/watch?v=s2bgR_t3aGM)
-
-Piecewise Linear Paths in Equivalent Neural Networks: [youtube video](https://www.youtube.com/watch?v=WBiFFIhGIZM)
-
-Minimal Introduction to the Geometry of Tanh Networks: [youtube video](https://www.youtube.com/watch?v=EgqwUsJTumU)
-
-Entropy and the KL divergence: [youtube video](https://www.youtube.com/watch?v=EgqwUsJTumU)
-
-The Kraft-McMillan Theorem: [youtube video](https://www.youtube.com/watch?v=N30wJhaO68k)
-
-Asymptotic Learning Curve and the Renormalisable Condition: [youtube video](https://www.youtube.com/watch?v=N30wJhaO68k)
-
-Intro to Blowing Up: [youtube video](https://www.youtube.com/watch?v=CWNaKMP8Teo)
-
-State of Scaling Laws: [youtube video](https://www.youtube.com/watch?v=7LzW8-wxdUE)
-
-In-context Learning: [youtube video](https://www.youtube.com/watch?v=Vqmcn1q7VL0)
-
-Open Problems: [youtube video](https://www.youtube.com/watch?v=ZdB0pWyPaFo)
-
-Newton Diagrams in Singular Learning Theory: [youtube video](https://www.youtube.com/watch?v=0FowiD36jwg)
-
-### articles on Singular Learning Theory
-
-* [Structural Degeneracy of Neural Networks, Matthew Farrugia-Roberts, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Structural_Degeneracy_in_Neural_Networks_Farrugia-Roberts_UoMelbourne_2022.pdf)
-
-* [Mathematical Theory of Bayesian Statistics for Unknown Information Source, Sumio Watanabe, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Mathematical_Theory_of_Bayesian_Statistics_for_Unknown_Information_Source_Sumio_Watanabe_2023.pdf)
-
-* [Singular Learning Theory: Connecting Algebraic Geometry and Model Selection in Statistics, R. Steele, Bernd Sturmfels, Sumio Watanabe,  Workshop](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/Singular_learning_theory-connecting_algebraic_geometry_and_model_selection_in_statistics_Steele.pdf)
-
-* [A Mathematical Theory of Semantic Development in DNNs, Adrew Saxe et al, PNAS, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/saxe-et-al-2019-a-mathematical-theory-of-semantic-development-in-deep-neural-networks.pdf)
-
-* [Singular Learning Theory, Sumio Watanabe, presentation](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/SingularLearningTheory/slt202301_Sumio_Watanabe.pdf)
 
