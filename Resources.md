@@ -100,6 +100,8 @@
 * [Student of Games: A Unified Learning Algorithm for Both Perfect and Imperfect Information Games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmidt_2023.pdf)
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
+* [Is the Large Language Model revolution just getting started or are we closer to the end?, David Johnston, ThoughtWorks,  2023](https://www.linkedin.com/pulse/large-language-model-revolution-just-getting-started-we-johnston-oluxe/)
+
 * [Simplifying Transformer Blocks, Bobby He and Thomas Hofmann, ETH Zurich, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/SimplifyingTransformerBlocks_He2023.pdf)
 
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
