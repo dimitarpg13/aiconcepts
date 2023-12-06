@@ -158,6 +158,27 @@
 
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
 
+### Causal Inference and Counterfactuals 
+
+* [Belief Propagation, Yair Weiss, Judea Pearl, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/BeliefPropagationWeissAndPearl2010.pdf)
+
+* [Introduction to Causal Inference, Judea Pearl, UCLA, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/IntroductionToCausalInferencePearl2010.pdf)
+
+* [The Foundations of Causal Inference, Judea Pearl, UCLA, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/FoundationsOfCausalInferencePearl2010.pdf)
+
+* [On Measurement Bias in Causal Inference, Judea Pearl, UCLA, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/OnMeasurementBiasinCausalInferencePearl2010.pdf)
+
+* [Controlling Selection Bias in Causal Inference, Elias Bareinboim, Judea Pearl, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/ControllingSelectionBiasinCausalInferenceBareinboimAndPerl2012.pdf)
+
+* [The Causal Mediation Formula - A Guide to the Assessment of Pathways and Mechanisms, Judea Pearl, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/CausalMediationFormulaAGuidetotheAssessmentofPathwaysandMechanismsPearl2012.pdf)
+
+* [The Mathemaitcs of Causal Inference, Judea Pearl, UCLA, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/MathematicsofCausalInferencePearl2013.pdf)
+
+* [A Personal Journey into Bayesian Networks, Judea Pearl, UCLA, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/CausalandCounterfactualInferencePearl2019.pdf)
+
+* [Causal and Counterfactual Inference, Judea Pearl, UCLA, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/CausalandCounterfactualInferencePearl2019.pdf)
+
+
 ### Graph Theory
 
 * [Digraphs: Theory, Algorithms, Applications, Jorgen Bang-Jensen, Gregory Gutin, 2007](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GraphTheory/DigraphsTheoryAlgorithmsApplicationsJensen2007.pdf)
