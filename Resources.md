@@ -19,6 +19,14 @@
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
 
+### Ising Machines
+
+* [Ising Machines: Hardware Solvers for Combinatorial Pptimization Problems](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/IsingMachinesHardwareSolversforCombinatorialOptimizationProblemsMohseni2022.pdf)
+
+* [Massively Parallel Probabilistic Computing with Sparse Ising Machines, N. Aadit et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/MassivelyParallelProbabilisticComputingwithSparseIsingMachinesAadit2022.pdf)
+
+* [OIM: Oscillator-based Ising Machines for Solving Combinatorial Optimization Problems, T. Wang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/Oscillator-BasedIsingMachinesforSolvingCombinatorialOptimisationProblemsWang2019.pdf)
+
 ## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
