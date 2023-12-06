@@ -120,6 +120,10 @@
 
 * [Learning from Hypervectors: A Survey on Hypervector Encoding, Sercan Aygun et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/Learning_from_Hypervectors-A_Survey_on_Hypervector_Encoding_2023.pdf)
 
+## Irruption Theory
+
+* [Irruption Theory: A Novel Conceptualization of the Enactive Account of Motivated Activity, Tom Froese, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IrruptionTheory/IrruptionTheory_ANovelConceptualizationOfTheEnactiveAccountOfMutivatedActivityFroese2023.pdf)
+
 ## Singular Learning Theory and seminars at MetaUni.org
 
 * [Main URL with presentations and literature](https://metauni.org/slt/)
