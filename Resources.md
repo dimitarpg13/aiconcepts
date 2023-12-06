@@ -154,11 +154,43 @@
 
 ## Mathematical Apparatus and Tools
 
+### Probabilistic Modeling
+
 * [Machine Learning - a Probabilistic Perspective, Kevin P. Murphy, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf)
+
+### Graph Theory
 
 * [Digraphs: Theory, Algorithms, Applications, Jorgen Bang-Jensen, Gregory Gutin, 2007](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GraphTheory/DigraphsTheoryAlgorithmsApplicationsJensen2007.pdf)
 
+### Game Theory
+
 * [Theory of Games and Statistical Decisions, David Blackwell, 1954](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
+
+### Logic Systems 
+
+* [Introduction to Mathematical Logic, Elliott Mendelson, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Mendelson_Introduction_to_Mathematical_Logic_6th_Ed_2015.pdf)
+
+* [The Calculi of Lambda-Conversion, Alonzo Church, Princeton U, 1941](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/church_calculi_1941.pdf)
+
+* [Unsolvable Problem of Elementary Number Theory, Alonzo Church, Princeton U, 1938](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
+
+* [Some Properties of Conversion, Alonzo Church, J.B. Rosser, Princeton U., 1936](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Some_Properties_of_Conversion_ChurchRosser36.pdf)
+
+### Computability and Complexity
+
+* [Neural Networks and Analog Computation Beyond the Turing Limit, Hava T. Siegelmann, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/NeuralNetworksandAnalogComputationBeyondTheTuringLimit.pdf)
+
+* [Computation Beyond the Turing Limit, Hava T. Siegelmann](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/ComputationBeyondtheTuringLimit_1995_Siegelmann_Science.pdf)
+
+* [On The Computational Power of Neural Nets, Hava T. Siegelmann and Eduardo Sontag, 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/OnTheComputationalPowerOfNeuralNets_1992_Siegelmann.pdf)
+
+* [Turing Computability with Neural Nets, Hava T. Siegelmann and Eduardo Sontag, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/TuringComputabilityWithNeuralNets_Siegelman1991.pdf)
+
+* [The Complexity of Boolean Functions, Ingo Wegener, 1987](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputabilityAndComplexity/ComplexityOfBooleanFunctionsWegener.pdf)
+
+* [Computing Machinery and Intelligence, Alan Turing, 1950](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputabilityAndComplexity/ComputingMachineryAndIntelligenceTuring1951.pdf)
+
+### Symmetry Considerations and Related Constructs
 
 * [Symmetry Groups and Their Applications, Willard Miller, U Minnesotta, 1972](https://github.com/dimitarpg13/aiconcepts/tree/master/literature/NoetherTheoremAndSymmetryGroups/SymmetryGroupsBook)
 
