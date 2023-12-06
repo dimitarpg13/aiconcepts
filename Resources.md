@@ -92,6 +92,7 @@
 * [Student of Games: A Unified Learning Algorithm for Both Perfect and Imperfect Information Games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmidt_2023.pdf)
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
+* [Simplifying Transformer Blocks, Bobby He and Thomas Hofmann, ETH Zurich, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/SimplifyingTransformerBlocks_He2023.pdf)
 
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
@@ -106,6 +107,18 @@
 * [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models, D. Fu et al, USC, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Transformers_Learn_Higher-Order_Optimization_Methods_for_In-Context_Learning-A_Study_with_Linear_Models_Fu_USC_2023.pdf)
 
 * [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
+
+## Hyper-dimensional Computing
+
+* [A New Approach to Computation Reimagines Artificial Intelligence, Anil Ananthaswami, Quanta Magazine, April 2023](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
+
+* [Hyperdimensional Computing: An Introduction to Computing in Distributed Representation with High-Dimensional Random Vectors, Pentti Kanerva, Cognitive Computing, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/kanerva09-hyperdimensional.pdf)
+
+* [A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices, M. Hersche et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/A_Neuro-vector-symbolic_Architecture_for_Solving_Ravens_Progressive_Matrices_Hersche_2023.pdf)
+
+* [Torchhd: An Open Source Python Library to Support Research on Hyperdimensional Computing and Vector Symbolic Architectures, M. Heddes et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/Torchhd-An_Open_Source_Python_Library_on_HyperDimensional_Computing.pdf)
+
+* [Learning from Hypervectors: A Survey on Hypervector Encoding, Sercan Aygun et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/Learning_from_Hypervectors-A_Survey_on_Hypervector_Encoding_2023.pdf)
 
 ## Singular Learning Theory and seminars at MetaUni.org
 
