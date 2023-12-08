@@ -21,7 +21,7 @@
 
 ### Ising Machines
 
-* [Ising Machines: Hardware Solvers for Combinatorial Pptimization Problems](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/IsingMachinesHardwareSolversforCombinatorialOptimizationProblemsMohseni2022.pdf)
+* [Ising Machines: Hardware Solvers for Combinatorial Optimization Problems](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/IsingMachinesHardwareSolversforCombinatorialOptimizationProblemsMohseni2022.pdf)
 
 * [Massively Parallel Probabilistic Computing with Sparse Ising Machines, N. Aadit et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/MassivelyParallelProbabilisticComputingwithSparseIsingMachinesAadit2022.pdf)
 
