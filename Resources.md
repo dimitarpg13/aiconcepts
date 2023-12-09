@@ -137,6 +137,12 @@
 
 * [Learning from Hypervectors: A Survey on Hypervector Encoding, Sercan Aygun et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/HyperdimensionalComputing/Learning_from_Hypervectors-A_Survey_on_Hypervector_Encoding_2023.pdf)
 
+## Time-reversible Markov processes
+
+* [To Reverse a Markov Process, K.L. Chung, John B. Walsh, Stanford U., 1969](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/ToReverseAMarkovProcess_ChungAndWalsh_Stanford.pdf)
+
+* [Dynamic Programming and Markov Processes, Ronald A. Howard, MIT, 1960](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
+
 ## Irruption Theory
 
 * [Irruption Theory: A Novel Conceptualization of the Enactive Account of Motivated Activity, Tom Froese, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IrruptionTheory/IrruptionTheory_ANovelConceptualizationOfTheEnactiveAccountOfMutivatedActivityFroese2023.pdf)
