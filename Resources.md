@@ -107,6 +107,8 @@
 
 * [Simplifying Transformer Blocks, Bobby He and Thomas Hofmann, ETH Zurich, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/SimplifyingTransformerBlocks_He2023.pdf)
 
+* [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
+
 * [Chain-of-Thought Prompting Elicists Reasoning in Large Language Models, Wei et al, Google Research, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain-of-Thought_Prompting_Elicits_Reasoning_in_Large_Language_Models_GoogleResearch_2023.pdf)
 
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
