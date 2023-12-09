@@ -107,6 +107,8 @@
 
 * [Simplifying Transformer Blocks, Bobby He and Thomas Hofmann, ETH Zurich, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/SimplifyingTransformerBlocks_He2023.pdf)
 
+* [Chain-of-Thought Prompting Elicists Reasoning in Large Language Models, Wei et al, Google Research, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain-of-Thought_Prompting_Elicits_Reasoning_in_Large_Language_Models_GoogleResearch_2023.pdf)
+
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 * [Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks, M. Mitchell et al, Santa Fe Institute, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Comparing_Humans_GPT-4_and_GPT-4V_On_Abstraction_and_Reasoning_Tasks_Mitchell_SanteFe_2023.pdf)
