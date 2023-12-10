@@ -23,3 +23,11 @@ To build structures out of semantic concepts represented by hyper-vectors we nee
 operations.
 
 
+## An Engineering View of Representation
+
+Representation of semantic concepts must satisfy at least one condition - it must _discriminate_: 
+the patterns representing different concepts or sub-concepts must differ from each other. 
+
+
+## The Hyper-dimensional computer
+
