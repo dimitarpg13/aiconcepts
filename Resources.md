@@ -141,6 +141,8 @@
 
 * [To Reverse a Markov Process, K.L. Chung, John B. Walsh, Stanford U., 1969](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/ToReverseAMarkovProcess_ChungAndWalsh_Stanford.pdf)
 
+* [Reversibility and Stochastic Networks, F.P. Kelly, 1979](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
+
 * [Dynamic Programming and Markov Processes, Ronald A. Howard, MIT, 1960](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Markov/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
 
 ## Irruption Theory
