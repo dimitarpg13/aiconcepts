@@ -19,4 +19,7 @@ Superposition of concepts is modeled through addition of hyper-vectors. For exam
 
 ## Building structures out of semantic concepts
 
-To build structures out of semantic concepts represented by hyper-vectors we need to be able to rearrange individual elements (segments) of the hyper-vectors. Permutation allows to deal with sequences: consider two events represented by the hyper-vectors `A` and `B`.  Adding `A` and `B` blindly into a new hypervector would destroy information about the order of the events.  
+To build structures out of semantic concepts represented by hyper-vectors we need to be able to rearrange individual elements (segments) of the hyper-vectors. Permutation allows to deal with sequences: consider two events represented by the hyper-vectors `A` and `B`.  Adding `A` and `B` blindly into a new hypervector would destroy information about the order of the events. Combining addition with permutation preserves the order; the events can be retrieved in order by reversing the
+operations.
+
+
