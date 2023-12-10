@@ -23,11 +23,16 @@ To build structures out of semantic concepts represented by hyper-vectors we nee
 operations.
 
 
-## An Engineering View of Representation
+### Properties of semantic representations
 
 Representation of semantic concepts must satisfy at least one condition - it must _discriminate_: 
 the patterns representing different concepts or sub-concepts must differ from each other. 
 
+* Hyper-dimensionality
+
+* Robustness
+
+   _Robustness_ as a tolerance to individual component failures. 
 
 ## The Hyper-dimensional computer
 
