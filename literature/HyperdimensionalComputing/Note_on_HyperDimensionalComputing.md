@@ -15,4 +15,8 @@ A reasonable way of modeling a _binding_ of two concepts into a new bound concep
 
 ## Superposition of concepts
 
-Superposition of concepts is modeled through addition of hyper-vectors. 
+Superposition of concepts is modeled through addition of hyper-vectors. For example. we can take two bound vectors , "`SHAPE` is `CIRCLE`" and "`COLOR` is `RED`", and add them together to create a vector that represents a circular shape that is red in color.  As before, a requirement is to extract information from  the superposed vector via decompostion into its constituents.
+
+## Building structures out of semantic concepts
+
+To build structures out of semantic concepts represented by hyper-vectors we need to be able to rearrange individual elements (segments) of the hyper-vectors. Permutation allows to deal with sequences: consider two events represented by the hyper-vectors `A` and `B`.  Adding `A` and `B` blindly into a new hypervector would destroy information about the order of the events.  
