@@ -36,7 +36,7 @@ the patterns representing different concepts or sub-concepts must differ from ea
 
    - Replication
      
-     Replication is a simple way to achieve robustness.
+     _Replication_ is a simple way to achieve robustness.
 
 ## The Hyper-dimensional computer
 
