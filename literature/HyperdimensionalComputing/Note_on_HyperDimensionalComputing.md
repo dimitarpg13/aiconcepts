@@ -32,11 +32,12 @@ the patterns representing different concepts or sub-concepts must differ from ea
 
 * Robustness
 
-   _Robustness_ as a tolerance to individual component failures. The robustness comes from redundant representation, in which many patterns are considered equivalent and mean the same thing. A property of hyper-dimensional representation is that the number of places at which equivalent patterns may differ can be come quite large. As a result , the _proportion_ of allowable "errors", that is - the number of _redundant_ representations, increases with dimensionality.
+   _Robustness_ as a tolerance to individual component failures. The robustness comes from redundant representation, in which many patterns are considered equivalent and mean the same thing. A property of hyper-dimensional representation is that the number of places at which equivalent patterns may differ can be come quite large. As a result , the _proportion_ of allowable "errors", that is - the number of _redundant_ representations, increases with dimensionality. Ways to achieve
+   redundancy and rubstness are listed and discussed below.
 
    - Replication
      
-     _Replication_ is a simple way to achieve redundancy hence robustness.
+     _Replication_ is a simple way to achieve redundancy and robustness.
 
 ## The Hyper-dimensional computer
 
