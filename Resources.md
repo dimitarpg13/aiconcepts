@@ -208,11 +208,14 @@
 
 * [Introduction to Mathematical Logic, Elliott Mendelson, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Mendelson_Introduction_to_Mathematical_Logic_6th_Ed_2015.pdf)
 
+
 * [The Calculi of Lambda-Conversion, Alonzo Church, Princeton U, 1941](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/church_calculi_1941.pdf)
 
 * [Unsolvable Problem of Elementary Number Theory, Alonzo Church, Princeton U, 1938](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/An_Unsolvable_Problem_of_Elementary_Number_Theory_Church_1938.pdf)
 
 * [Some Properties of Conversion, Alonzo Church, J.B. Rosser, Princeton U., 1936](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Some_Properties_of_Conversion_ChurchRosser36.pdf)
+
+* [On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Kurt Goedel, translated by B. Meltzer, Dover Pubs 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Kurt_G%C3%B6del_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf)
 
 ### Computability and Complexity
 
