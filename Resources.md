@@ -13,6 +13,8 @@
 
 ### Quantum Cognition
 
+* [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
+
 * [Quantum Models of Cognition and Decision, Jerome Busemeyer, Peter Burza, 2012, 1st edition](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_Models_of_Cognition_and_Decision_Busemeyer_book_2012.pdf)
 
 * [Quantum Cognition and Decision Theories-A Tutorial, J.M. Yearsley, J.R. Busemeyer, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_cognition_and_decision_theories-a_tutorial_YearselyBusemeyerJMP_2015.pdf)
