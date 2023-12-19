@@ -11,6 +11,8 @@
 
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
+* [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
+
 ### Quantum Cognition
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
