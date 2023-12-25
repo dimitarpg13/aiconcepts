@@ -65,9 +65,11 @@
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular_Automata_with_Short-Term_Reaction-Diffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
-## Emergent Phenomena and Self-Organization
+## Emergent Phenomena, Self-Organization, Criticallity
 
 * [The Origins of Order: Self-Organization and Selection in Evolution, Stuart A. Kauffman, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/The_Origins_Of_Order_Stuart_Kaufman_1993.pdf)
+
+* [When the Brain operates at peak performance?, John M. Beggs, Jan 2023](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
 
 * [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings, Jascha Achterberg et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Spatially_embedded_recurrent_neural_networks_reveal_widespread_links_between_structural_and_functional_neuroscience_findings_Achterberg_2023.pdf)
 
