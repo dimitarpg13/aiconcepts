@@ -31,6 +31,30 @@
 
 * [OIM: Oscillator-based Ising Machines for Solving Combinatorial Optimization Problems, T. Wang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/Oscillator-BasedIsingMachinesforSolvingCombinatorialOptimisationProblemsWang2019.pdf)
 
+### Thermodynamics of Complex System, Self-Replication, and Self-Organization
+
+* [How Life (and Death) Spring From Disorder, Phillip Ball, Quanta Magazine, 2017](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
+
+* [A New Physics Theory of Life, N. Wolchover, Quanta Magazine, 2014](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+
+* [Entropy production, thermodynamic uncertainty, and information, Initiative for the Theoretical Sciences, youtube presentation, 2022](https://www.youtube.com/watch?v=9nic-iDWcdQ)
+
+* [Statistical Physics of Self-Replication, Jeremy England, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/StatisticalPhysics_ofSelf_Replication_Englad_2013jcpsrep.pdf)
+
+* [Irreversibility and Heat Generation in the Computing Process R. Landauer, 1961](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Landauer-Irreversibility_and_Heat_Generation_in_the_Computing_Process_1961.pdf)
+
+* [The Thermodynamics of Prediction, Susanne Still, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/The_thermodynamics_of_prediction_Susane_Still_2013.pdf)
+
+* [Theormodnymaic Metrics and Optimal Paths, D. Sivak, G. Crooks, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Thermodynamic_metrics_and_optimal_paths_Sivak_and_Crooks_2012.pdf)
+
+* [Dynamic Riemannian Geometry of the Ising Model, G. Rotskoff, G. Crooks, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Dynamic_Riemannian_Geometry_of_the_Ising_Model_Rotskoff_Crooks_2015.pdf)
+
+* [Near-optimal protocols in complex nonequilibrium transformations, T. Gingrich et al, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Near-optimal_protocols_in_complex_nonequilibrium_transformations_Gingrich_2016.pdf)
+
+* [A geometric approach to optimal nonequilibrium control: Minimizing dissipation in nanomagnetic spin systems, G. Rotskoff et al, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/A_geometric_approach_to_optimal_nonequilibrium_control-Minimizing_dissipation_in_nanomagnetic_spin_systems_Rotskoff_Crooks_2016.pdf)
+
+* [Thermodynamic Linear Algebra, M. Aifer et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Thermodynamic_Linear_Algebra_Aifer_2023.pdf)
+
 ## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
@@ -70,6 +94,8 @@
 * [The Origins of Order: Self-Organization and Selection in Evolution, Stuart A. Kauffman, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/The_Origins_Of_Order_Stuart_Kaufman_1993.pdf)
 
 * [When the Brain operates at peak performance?, John M. Beggs, Jan 2023](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
+
+* [Dimensionality and dynamics in networs of neurons, Initiative for the Theoretical Sciences, youtube presentations](https://www.youtube.com/watch?v=afSXCH-RX9M)
 
 * [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings, Jascha Achterberg et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Spatially_embedded_recurrent_neural_networks_reveal_widespread_links_between_structural_and_functional_neuroscience_findings_Achterberg_2023.pdf)
 
