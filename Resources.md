@@ -55,6 +55,8 @@
 
 * [Thermodynamic Linear Algebra, M. Aifer et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Thermodynamic_Linear_Algebra_Aifer_2023.pdf)
 
+* [Exactly Solved Models in Statistical Mechanics, R. Baxter, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Exactly_Solved_Models_In_Statistical_Mechanics_Baxter_1989.pdf)
+
 ## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
