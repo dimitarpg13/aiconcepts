@@ -159,6 +159,8 @@
 
 * [The Transient Nature of Emergent In-Context Learning in Transformers, A. Singh et al, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/The_Transient_Nature_of_Emergent_In-Context_Learning_in_Transformers_Singh_UCL_2023.pdf)
 
+* [Using Sequences of Life-events to Predict Human Lives, Germans Savcisens et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/Using_Sequences_of_Life-events_to_Predict_Human_Lives_Savcisens_2023.pdf)
+
 ## Hyper-dimensional Computing
 
 * [A New Approach to Computation Reimagines Artificial Intelligence, Anil Ananthaswami, Quanta Magazine, April 2023](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
