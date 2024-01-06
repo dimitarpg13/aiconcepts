@@ -5,11 +5,15 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-## Physics-Inspired Modeling
+## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, and Chaos Theory
 
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
-* [Physical Theory and Its Interpetation Essays in Honor of Jeffrey Bub, W. Demopoulos, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Physical_Theory_and_its_Interpretation_Essays_in_Honor_of_Jeffrey_Bub_Demopulous_2006.pdf)
+* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
+
+* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
+
+* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
 
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
