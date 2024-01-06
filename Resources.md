@@ -7,6 +7,8 @@
 
 ## Physics-Inspired Modeling
 
+* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
+
 * [Physical Theory and Its Interpetation Essays in Honor of Jeffrey Bub, W. Demopoulos, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Physical_Theory_and_its_Interpretation_Essays_in_Honor_of_Jeffrey_Bub_Demopulous_2006.pdf)
 
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
