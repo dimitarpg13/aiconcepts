@@ -19,6 +19,8 @@
 
 * [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
 
+* [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
+
 ### Quantum Cognition
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
@@ -101,9 +103,17 @@
 
 * [The Origins of Order: Self-Organization and Selection in Evolution, Stuart A. Kauffman, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/The_Origins_Of_Order_Stuart_Kaufman_1993.pdf)
 
+* [Emergence Versus Self-Organisation: Different Concepts but Promising When Combined, Tom De Wolf, Tom Holvoet, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Emergence_Versus_Self-Organisation-Different_Concepts_but_Promising_When_Combined_DeWolf_Holvoed_2005.pdf)
+
+* [Organisms, Machines, and Thunderstorms: A History of Self-Organization, Part One, Evelyn Fox Keller, MIT, 2007](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Organisms_Machines_and_Thunderstorms-A_History_of_Self-Organization_Part_One_Evelyn_F_Keller_MIT_2008.pdf)
+
+* [Organisms, Machines, and Thunderstorms: A History of Self-Organization, Part Two. Complexity, Emergence, and Stable Attractors, Evelyn Fox Keller, MIT, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Organisms_Machines_and_Thunderstorms-A_History_of_Self-Organization_Part_Two_Complexity_Emergence_and_Stable_Attractors_Evelyn_F_Keller_2009.pdf)
+
+* [Self-organization in Developmental Processes : Can Systems Approaches Work? Esther Thelen, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-organization_an_Developmental_Processes-Can_Systems_Approaches_Work_Esther_Thelen_1989.pdf)
+
 * [When the Brain operates at peak performance?, John M. Beggs, Jan 2023](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
 
-* [Dimensionality and dynamics in networs of neurons, Initiative for the Theoretical Sciences, youtube presentations](https://www.youtube.com/watch?v=afSXCH-RX9M)
+* [Dimensionality and dynamics in networks of neurons, Initiative for the Theoretical Sciences, youtube presentations](https://www.youtube.com/watch?v=afSXCH-RX9M)
 
 * [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings, Jascha Achterberg et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Spatially_embedded_recurrent_neural_networks_reveal_widespread_links_between_structural_and_functional_neuroscience_findings_Achterberg_2023.pdf)
 
