@@ -5,7 +5,17 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
+## Bayesian Mechanics
+
+* [On Bayesian Mechanics: A Physics of and by Beliefs, M. Ramstead et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/On_Bayesian_Mechanics-A_Physics_of_and_by_Beliefs_Ramstead_UCL_StonyBrook_NortheasternU_2023.pdf)
+
+* [Uncertainty, Reward and Attention in Bayesian Brain, Louise Whiteley, PhD Thesis, UCL, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Uncertainty_Reward_and_Attention_in_the_Bayesian_Brain_LWhiteley_thesis.pdf)
+
+* [Variational Algorithms for Approximate Bayesian Inference, Matthew J. Beal, PhD Thesis, UCL, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Variational_Algorithms_for_Approximate_Bayesian_Inference_PhD_thesis_UCL_2003.pdf)
+
 ## Free Energy Principle
+
+* [The Free Energy Principle, Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
 * [Active Inference: Free Energy Principle of Mind, Brain, and Behavior, Thomas Parr, Giovanni Pezzulo, Karl Friston, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Active_Inference_The_Free_Energy_Prinicple_In_Mind_Brain_and_Behavior_Parr_Pezzulo_Friston_2022.pdf)
 
