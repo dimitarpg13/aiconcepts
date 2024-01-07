@@ -5,6 +5,18 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
+## Free Energy Principle
+
+* [Active Inference: Free Energy Principle of Mind, Brain, and Behavior, Thomas Parr, Giovanni Pezzulo, Karl Friston, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Active_Inference_The_Free_Energy_Prinicple_In_Mind_Brain_and_Behavior_Parr_Pezzulo_Friston_2022.pdf)
+
+* [A free energy principle for the Brain, Karl Friston et al, UCL, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/A_free_energy_principle_for_the_brain_Friston_2006.pdf)
+
+* [The Free Energy Principle: a Unified Brain Theory?, Karl Friston, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/KFriston_FreeEnergy_BrainTheory_2010.pdf)
+
+* [Perceptions as Hypotheses: Saccades as Experiments, Karl Friston et al, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Perceptions_as_hypotheses_saccades_as_experiments_Friston_2012.pdf)
+
+* [The Helmholtz Machine, Peter Dayan, Geoffrey Hinton, Radford Neal, U of Toronto, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/TheHelmholtzMachine_Dayan_Hinton_Neal_UoToronto_1995.pdf)
+
 ## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
 
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
