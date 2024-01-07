@@ -27,6 +27,11 @@
 
 * [The Helmholtz Machine, Peter Dayan, Geoffrey Hinton, Radford Neal, U of Toronto, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/TheHelmholtzMachine_Dayan_Hinton_Neal_UoToronto_1995.pdf)
 
+* [Friston’s AI Law is Proven: FEP Explains How Neurons Learn, Denise Holt, Medium, 2023](https://medium.com/@deniseholt1/fristons-ai-law-is-proven-fep-explains-how-neurons-learn-3718d3be69ac)
+
+* [Experimental validation of the free-energy
+principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
+
 ## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
 
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
