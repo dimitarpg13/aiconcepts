@@ -269,6 +269,14 @@
 
 * [On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Kurt Goedel, translated by B. Meltzer, Dover Pubs 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Kurt_G%C3%B6del_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf)
 
+### Information Theory
+
+* [Entropy and Information Theory, First Edition, Robert Gray, Stanford U., 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/InformationTheory/EntropyAndInformationTheory_Gray_Stanford_2023.pdf)
+
+* [Elements of Information Theory, Second Edition, Thomas M. Cover, Joy A. Thomas, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/InformationTheory/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.pdf)
+
+* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U, 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/InformationTheory/InformationTheoryAndStatisticalMechanics_JaynesStanfordU_1957.pdf)
+
 ### Computability and Complexity
 
 * [Neural Networks and Analog Computation Beyond the Turing Limit, Hava T. Siegelmann, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ComputationSiegelmann/NeuralNetworksandAnalogComputationBeyondTheTuringLimit.pdf)
