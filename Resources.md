@@ -19,6 +19,8 @@
 
 * [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
 
+* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
+
 * [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
 
 ### Quantum Cognition
