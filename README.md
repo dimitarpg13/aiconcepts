@@ -2,7 +2,7 @@
 ## Summary
 
 This repository is a **work in progress**. 
-It contains materials on concepts and ideas as well as mathematical tools which maybe relevant for the work on [Theory of Semantic Structures](https://github.com/dimitarpg13/aiconcepts/tree/master/docs/SemanticStructures/README.md). 
+It contains materials on [concepts and ideas as well as mathematical tools](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md) which maybe relevant for the work on [Theory of Semantic Structures](https://github.com/dimitarpg13/aiconcepts/tree/master/docs/SemanticStructures/README.md). 
 
 ## What's Next?
 
