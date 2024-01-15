@@ -50,6 +50,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
 
+* [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
+
 ### Quantum Cognition
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
