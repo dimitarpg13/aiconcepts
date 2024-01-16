@@ -5,7 +5,28 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-## Bayesian Mechanics
+## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
+
+### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
+* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
+
+* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
+
+* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
+
+* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
+
+* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
+* [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
+
+* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
+
+* [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
+
+* [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
+
+### Bayesian Mechanics
 
 * [On Bayesian Mechanics: A Physics of and by Beliefs, M. Ramstead et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/On_Bayesian_Mechanics-A_Physics_of_and_by_Beliefs_Ramstead_UCL_StonyBrook_NortheasternU_2023.pdf)
 
@@ -13,7 +34,7 @@
 
 * [Variational Algorithms for Approximate Bayesian Inference, Matthew J. Beal, PhD Thesis, UCL, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Variational_Algorithms_for_Approximate_Bayesian_Inference_PhD_thesis_UCL_2003.pdf)
 
-## Free Energy Principle
+### Free Energy Principle
 
 * [The Free Energy Principle, Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
@@ -32,25 +53,6 @@
 * [Experimental validation of the free-energy
 principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
 
-## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
-
-* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
-
-* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
-
-* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
-
-* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
-
-* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
-
-* [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
-
-* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
-
-* [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
-
-* [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
 
 ### Quantum Cognition
 
