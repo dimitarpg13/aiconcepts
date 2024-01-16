@@ -74,6 +74,17 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [OIM: Oscillator-based Ising Machines for Solving Combinatorial Optimization Problems, T. Wang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/Oscillator-BasedIsingMachinesforSolvingCombinatorialOptimisationProblemsWang2019.pdf)
 
+### Associative Memory models
+* [Associative Memory, Wikipedia](https://en.wikipedia.org/wiki/Associative_memory_(psychology))
+
+* [Hopfield Network, Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
+
+* [Neural Associative Memory and Sparse Coding, G. Palm, U of Ulm, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Neural_associative_memories_and_sparse_coding_Palm_2013.pdf)
+
+* [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
+
+* [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
+
 ### Thermodynamics of Complex System, Self-Replication, and Self-Organization
 
 * [How Life (and Death) Spring From Disorder, Phillip Ball, Quanta Magazine, 2017](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
@@ -165,14 +176,6 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [The Self-Organizing Map, Teuvo Kohonen, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/TheSelfOrganizingMap_1990-Kohonen-PIEEE.pdf)
 
 * [Associative Self-Organizing Map, Magnus Johnsson, Germund Hesslow, David Gil, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/AssociativeSelfOrganizingMap_Jonsson_2011.pdf)
-
-## Associative Memory models
-
-* [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
-
-* [Neural Associative Memory and Sparse Coding, G. Palm, U of Ulm, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Neural_associative_memories_and_sparse_coding_Palm_2013.pdf)
-
-* [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
 
 ## Multi-Agent models and Game-Theoretical Approaches
 
