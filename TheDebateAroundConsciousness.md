@@ -3,7 +3,7 @@
 
 The viewpoint of Roger Penrose that consciousness is quantum phenomenon and a bi-product of the way Quantum Mechanics works:
 
-Youtube link: [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consciousness-quantum-linked-puzzle-x-keynote-talk)
+Youtube link: [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consciousness-quantum-linked-puzzle-x-keynote-talk) and [here](https://www.youtube.com/watch?v=TfouEFuB-co)
 
 Another sceptic, J. Mark Bishop and his article "Artificial Intelligence is Stupid and Causal Reasoning will not fix it" [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full). 
 The viewpoint of the author can be summarized by the statement made by Gary Marcus and Ernest Davis:
