@@ -5,7 +5,7 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
+## Physics-Inspired Modeling
 
 ### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
