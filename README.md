@@ -1,4 +1,4 @@
-# aiconcepts
+# Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems
 ## Summary
 
 This repository is a **work in progress**. 
