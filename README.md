@@ -1,4 +1,4 @@
-# Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems
+# Thought Forming, Consciousness, Intelligent Machines, Computability, Inference, Logic Systems
 ## Summary
 
 This repository is a **work in progress**. 
