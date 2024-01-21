@@ -11,6 +11,8 @@ _Summary_: microtubules are responsible for consciousness. More precisiely, The 
 
 The idea of Stuart Hameroff that microtubules are at the root of the phenomenon of Consciousness was dicussed for first time in his 1987 book _"Ultimate Computing: Biomolecular Consciousness and NanoTechnology"_ which can be found [here](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/ULTIMATE_COMPUTING_Biomolecular_Consciousness_and_NanoTechnology_Hameroff_1987.pdf)
 
+Related article of Stuart Hameroff: "Quantum computation in brain microtubules? The Penrose-Hameroff 'Orch OR' model of Consciousness" can be found [here](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-OR_model_of_Consciousness_hameroff-1998.pdf). 
+
 **David Chalmers** on Consciousness: links [here](https://youtu.be/uhRhtFFhNzQ) and [here](https://youtu.be/LW59lMvxmY4)
 
 **Daniel Dennett** on Consciousness: link [here](https://youtu.be/eSaEjLZIDqc)
