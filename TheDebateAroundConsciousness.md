@@ -9,7 +9,7 @@ Youtube links: [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consc
 
 _Summary_: microtubules are responsible for consciousness. More precisiely, The **Orch OR** theory attributes consciousness to quantum computations in microtubules inside brain neurons. Quantum computers process information as superpositions of multiple possibilities which, in **Orch OR**, are alternative collective dipole oscillations orchestrated by microtubules. Consciousness is a process on the finest scale of the Universe. He retells Roger Penrose's viewpoint that Consciousness is caused by the spontaneous collapse of wave function on quantum level. 
 
-The idea of Stuart Hameroff that microtubules are at the root of the phenomenon of Consciousness was dicussed for first time in his 1987 book "Ultimate Computing: Biomolecular Consciousness and NanoTechnology" which can be found [here](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/ULTIMATE_COMPUTING_Biomolecular_Consciousness_and_NanoTechnology_Hameroff_1987.pdf)
+The idea of Stuart Hameroff that microtubules are at the root of the phenomenon of Consciousness was dicussed for first time in his 1987 book _"Ultimate Computing: Biomolecular Consciousness and NanoTechnology"_ which can be found [here](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/ULTIMATE_COMPUTING_Biomolecular_Consciousness_and_NanoTechnology_Hameroff_1987.pdf)
 
 **David Chalmers** on Consciousness: links [here](https://youtu.be/uhRhtFFhNzQ) and [here](https://youtu.be/LW59lMvxmY4)
 
