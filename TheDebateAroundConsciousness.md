@@ -5,7 +5,7 @@ The viewpoint of **Roger Penrose** that consciousness is quantum phenomenon and 
 
 Youtube links: [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consciousness-quantum-linked-puzzle-x-keynote-talk), [here](https://youtu.be/TfouEFuB-co), and [here](https://youtu.be/xGbgDf4HCHU)
 
-**Stuart Hameroff**'s biological insights relate to Roger Penrose's stipulations that Consciousness is quantum phenomenon. More on Stuart Hameroff' take on Consciousness and what is causing it: links [here](https://youtu.be/nJssLyvqG9o) and [here](https://youtu.be/tkECK3RzEPM)
+**Stuart Hameroff**'s biological insights relate to Roger Penrose's stipulations that Consciousness is quantum phenomenon. More on Stuart Hameroff' take on Consciousness and what is causing it: links [here](https://youtu.be/nJssLyvqG9o), [here](https://youtu.be/tkECK3RzEPM) and [here](https://youtu.be/Q6gpp70yvgo)
 
 _Summary_: microtubules are responsible for consciousness. More precisiely, The **Orch OR** theory attributes consciousness to quantum computations in microtubules inside brain neurons. Quantum computers process information as superpositions of multiple possibilities which, in **Orch OR**, are alternative collective dipole oscillations orchestrated by microtubules. Consciousness is a process on the finest scale of the Universe. He retells Roger Penrose's viewpoint that Consciousness is caused by the spontaneous collapse of wave function on quantum level. _"If everthing is Algorithmic in our brain we are like zombies on autopilot, or like AI"_.
 
