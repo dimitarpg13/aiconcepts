@@ -64,6 +64,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [A Quantum Qualia Hypothesis: from Quantum Cognition to Quantum Perception, N. Tsuchiya, et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_Quantum_Qualia_hypothesis-from_Quantum_Cognition_to_Quantum_Perception_Tsutchia_2023.pdf)
 
+* [Ultimate Computing: Biomolecular Consciousness and NanoTechnology, David Hameroff, 1987](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/ULTIMATE_COMPUTING_Biomolecular_Consciousness_and_NanoTechnology_Hameroff_1987.pdf)
+
 ### Ising Machines
 
 * [Ising Model, Wikipedia](https://en.wikipedia.org/wiki/Ising_model)
