@@ -16,7 +16,7 @@ _“we need to stop building computer systems that merely get better and better 
 
 In this article the author invokes R. Penrose's arguments as well.
 
-More on this topic: Goedel's original work on Incompleteness Theorems from 1930, translated by Bernard Meltzer
+More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems from 1930, translated by Bernard Meltzer
  with introduction by R.B. Braithwaite:
 
 [On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Kurt Goedel, translated by B. Meltzer, Dover Pubs 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Kurt_G%C3%B6del_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf)
