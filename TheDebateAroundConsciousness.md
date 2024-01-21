@@ -13,6 +13,9 @@ The idea of Stuart Hameroff that microtubules are at the root of the phenomenon 
 
 Related article of Stuart Hameroff: _"Quantum computation in brain microtubules? The Penrose-Hameroff 'Orch OR' model of Consciousness"_ can be found [here](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-OR_model_of_Consciousness_hameroff-1998.pdf). 
 
+And here is the retort by Dr Laura McKemmish to this idea - [_"Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness
+is not biologically feasible, 2009"_](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Penrose-Hameroff_orchestrated_objective-reduction_proposal_for_human_consciousness_is_not_biologically_feasible_Laura_McKemmish.pdf)
+
 **David Chalmers** on Consciousness: links [here](https://youtu.be/uhRhtFFhNzQ) and [here](https://youtu.be/LW59lMvxmY4)
 
 **Daniel Dennett** on Consciousness: link [here](https://youtu.be/eSaEjLZIDqc)
