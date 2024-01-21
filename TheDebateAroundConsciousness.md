@@ -9,7 +9,7 @@ Stuart Hameroff's biological insights relate to Roger Penrose's stipulations tha
 
 _Summary_: microtubules are responsible for consciousness. More precisiely, The 'Orch OR' theory attributes consciousness to quantum computations in microtubules inside brain neurons. Quantum computers process information as superpositions of multiple possibilities which, in Orch OR, are alternative collective dipole oscillations orchestrated by microtubules.
 
-Another sceptic, J. Mark Bishop and his article "Artificial Intelligence is Stupid and Causal Reasoning will not fix it" [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full). 
+Another sceptic, J. Mark Bishop and his article _"Artificial Intelligence is Stupid and Causal Reasoning will not fix it"_ [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full). 
 The viewpoint of the author can be summarized by the statement made by Gary Marcus and Ernest Davis:
 
 _“we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets—often using an approach known as ‘Deep Learning’—and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space, and causality.”_
