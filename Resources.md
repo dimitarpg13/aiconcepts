@@ -68,6 +68,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Quantum Computation in Brain Microtubules? The Penrose-Hameroff Orch-OR of Consciousness, Stuart Hameroff and P Marcer, 1998](literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-Off_model_of_Consciousness_hameroff-1998.pdf)
 
+* [Consciousness and the Universe: Quantum Physics, Evolution, Brain and Mind, collection of articles, Editor: R. Penrose](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Consciousness_and_the_Universe_Roger_Penrose.pdf)
+
 ### Ising Machines
 
 * [Ising Model, Wikipedia](https://en.wikipedia.org/wiki/Ising_model)
