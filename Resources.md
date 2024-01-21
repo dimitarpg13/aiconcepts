@@ -54,7 +54,7 @@
 principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
 
 
-### Quantum Cognition
+### Quantum Cognition and Quantum Consciousness
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
 
