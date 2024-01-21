@@ -5,35 +5,9 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
-## Bayesian Mechanics
+## Physics-Inspired Modeling
 
-* [On Bayesian Mechanics: A Physics of and by Beliefs, M. Ramstead et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/On_Bayesian_Mechanics-A_Physics_of_and_by_Beliefs_Ramstead_UCL_StonyBrook_NortheasternU_2023.pdf)
-
-* [Uncertainty, Reward and Attention in Bayesian Brain, Louise Whiteley, PhD Thesis, UCL, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Uncertainty_Reward_and_Attention_in_the_Bayesian_Brain_LWhiteley_thesis.pdf)
-
-* [Variational Algorithms for Approximate Bayesian Inference, Matthew J. Beal, PhD Thesis, UCL, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Variational_Algorithms_for_Approximate_Bayesian_Inference_PhD_thesis_UCL_2003.pdf)
-
-## Free Energy Principle
-
-* [The Free Energy Principle, Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
-
-* [Active Inference: Free Energy Principle of Mind, Brain, and Behavior, Thomas Parr, Giovanni Pezzulo, Karl Friston, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Active_Inference_The_Free_Energy_Prinicple_In_Mind_Brain_and_Behavior_Parr_Pezzulo_Friston_2022.pdf)
-
-* [A free energy principle for the Brain, Karl Friston et al, UCL, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/A_free_energy_principle_for_the_brain_Friston_2006.pdf)
-
-* [The Free Energy Principle: a Unified Brain Theory?, Karl Friston, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/KFriston_FreeEnergy_BrainTheory_2010.pdf)
-
-* [Perceptions as Hypotheses: Saccades as Experiments, Karl Friston et al, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Perceptions_as_hypotheses_saccades_as_experiments_Friston_2012.pdf)
-
-* [The Helmholtz Machine, Peter Dayan, Geoffrey Hinton, Radford Neal, U of Toronto, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/TheHelmholtzMachine_Dayan_Hinton_Neal_UoToronto_1995.pdf)
-
-* [Friston’s AI Law is Proven: FEP Explains How Neurons Learn, Denise Holt, Medium, 2023](https://medium.com/@deniseholt1/fristons-ai-law-is-proven-fep-explains-how-neurons-learn-3718d3be69ac)
-
-* [Experimental validation of the free-energy
-principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
-
-## Physics-Inspired Modeling, Enthropy-based Interpretations,  Dynamical Systems, Ergodic Processes, and Chaos Theory
-
+### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
 * [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
@@ -52,6 +26,34 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
 
+### Bayesian Mechanics
+
+* [On Bayesian Mechanics: A Physics of and by Beliefs, M. Ramstead et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/On_Bayesian_Mechanics-A_Physics_of_and_by_Beliefs_Ramstead_UCL_StonyBrook_NortheasternU_2023.pdf)
+
+* [Uncertainty, Reward and Attention in Bayesian Brain, Louise Whiteley, PhD Thesis, UCL, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Uncertainty_Reward_and_Attention_in_the_Bayesian_Brain_LWhiteley_thesis.pdf)
+
+* [Variational Algorithms for Approximate Bayesian Inference, Matthew J. Beal, PhD Thesis, UCL, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/Variational_Algorithms_for_Approximate_Bayesian_Inference_PhD_thesis_UCL_2003.pdf)
+
+### Free Energy Principle
+
+* [The Free Energy Principle, Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
+
+* [Active Inference: Free Energy Principle of Mind, Brain, and Behavior, Thomas Parr, Giovanni Pezzulo, Karl Friston, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Active_Inference_The_Free_Energy_Prinicple_In_Mind_Brain_and_Behavior_Parr_Pezzulo_Friston_2022.pdf)
+
+* [A free energy principle for the Brain, Karl Friston et al, UCL, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/A_free_energy_principle_for_the_brain_Friston_2006.pdf)
+
+* [The Free Energy Principle: a Unified Brain Theory?, Karl Friston, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/KFriston_FreeEnergy_BrainTheory_2010.pdf)
+
+* [Perceptions as Hypotheses: Saccades as Experiments, Karl Friston et al, 2012](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Perceptions_as_hypotheses_saccades_as_experiments_Friston_2012.pdf)
+
+* [The Helmholtz Machine, Peter Dayan, Geoffrey Hinton, Radford Neal, U of Toronto, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/TheHelmholtzMachine_Dayan_Hinton_Neal_UoToronto_1995.pdf)
+
+* [Friston’s AI Law is Proven: FEP Explains How Neurons Learn, Denise Holt, Medium, 2023](https://medium.com/@deniseholt1/fristons-ai-law-is-proven-fep-explains-how-neurons-learn-3718d3be69ac)
+
+* [Experimental validation of the free-energy
+principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
+
+
 ### Quantum Cognition
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
@@ -64,11 +66,26 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ### Ising Machines
 
+* [Ising Model, Wikipedia](https://en.wikipedia.org/wiki/Ising_model)
+
+* [Boltzmann Machine, Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_machine)
+
 * [Ising Machines: Hardware Solvers for Combinatorial Optimization Problems](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/IsingMachinesHardwareSolversforCombinatorialOptimizationProblemsMohseni2022.pdf)
 
 * [Massively Parallel Probabilistic Computing with Sparse Ising Machines, N. Aadit et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/MassivelyParallelProbabilisticComputingwithSparseIsingMachinesAadit2022.pdf)
 
 * [OIM: Oscillator-based Ising Machines for Solving Combinatorial Optimization Problems, T. Wang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/Oscillator-BasedIsingMachinesforSolvingCombinatorialOptimisationProblemsWang2019.pdf)
+
+### Associative Memory models
+* [Associative Memory, Wikipedia](https://en.wikipedia.org/wiki/Associative_memory_(psychology))
+
+* [Hopfield Network, Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
+
+* [Neural Associative Memory and Sparse Coding, G. Palm, U of Ulm, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Neural_associative_memories_and_sparse_coding_Palm_2013.pdf)
+
+* [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
+
+* [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
 
 ### Thermodynamics of Complex System, Self-Replication, and Self-Organization
 
@@ -161,14 +178,6 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [The Self-Organizing Map, Teuvo Kohonen, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/TheSelfOrganizingMap_1990-Kohonen-PIEEE.pdf)
 
 * [Associative Self-Organizing Map, Magnus Johnsson, Germund Hesslow, David Gil, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/AssociativeSelfOrganizingMap_Jonsson_2011.pdf)
-
-## Associative Memory models
-
-* [Neural Associative Memory Storing Gray-Coded Gray-Scale Images, G. Constantini et al, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/2003-Neural%2BAssociative%2BMemory%2BStoring%2BGray-Coded%2BGray-Scale%2BImages.pdf)
-
-* [Neural Associative Memory and Sparse Coding, G. Palm, U of Ulm, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Neural_associative_memories_and_sparse_coding_Palm_2013.pdf)
-
-* [Self-Attentive Associative Memory, H. Le at al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AssociativeMemory/Self-Attentive_Associative_Memory_Le_2020.pdf)
 
 ## Multi-Agent models and Game-Theoretical Approaches
 
