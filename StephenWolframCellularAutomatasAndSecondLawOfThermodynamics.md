@@ -2,7 +2,7 @@
 
 * [Stephen Wolfram Finally Proved the Second Law of Thermodynamics? interview with Brian Keating](https://youtu.be/c-RO3vM10Ok)
 
-* [Stephen Wolfram's New Kind Of Science (online version)](https://www.wolframscience.com/nks/)
+* [Stephen Wolfram's New Kind Of Science book (online version)](https://www.wolframscience.com/nks/)
 
 * [Computational Foundations for the Second Law of Thermodynamics, Stephen Wolfram, February 3, 2023](https://writings.stephenwolfram.com/2023/02/computational-foundations-for-the-second-law-of-thermodynamics/)
 
