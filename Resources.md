@@ -119,6 +119,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Exactly Solved Models in Statistical Mechanics, R. Baxter, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/Exactly_Solved_Models_In_Statistical_Mechanics_Baxter_1989.pdf)
 
+* [Stephen Wolfram's Research on The Second Law of Thermodynamics (separate markdown)](https://github.com/dimitarpg13/aiconcepts/blob/master/StephenWolframCellularAutomatasAndSecondLawOfThermodynamics.md)
+
 ## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
