@@ -475,3 +475,4 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
+* [What is Missing Towards Human Level AI - Towards Causal Representation Learning, Yoshua Bengio Guest Talk](https://youtu.be/rKZJ0TJWvTk)
