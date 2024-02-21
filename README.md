@@ -17,7 +17,7 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
  
  * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
  
- * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
+ * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResources.md)
  
  * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
  
@@ -39,4 +39,7 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
+
+## Note
+This repository uses git Large File Storage feature. In order to download locally the large files (> 7MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/ 
 

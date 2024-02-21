@@ -347,6 +347,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Noether's Theorem, Wikipedia](https://en.wikipedia.org/wiki/Noether%27s_theorem)
 
+* [Leo Susskind's Classical Mechanics Lecture on Noether's Theorem and Symmetry, youtube video](https://www.youtube.com/watch?v=ojEwHlyty4Q)
+
 * [Getting to the Bottom of Noether's Theorem, John Baez, U California Riverside, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/Getting_to_the_Bottom_of_Noethers_Theorem_Baez_2022.pdf)
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
@@ -473,3 +475,4 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
+* [What is Missing Towards Human Level AI - Towards Causal Representation Learning, Yoshua Bengio Guest Talk](https://youtu.be/rKZJ0TJWvTk)
