@@ -27,6 +27,8 @@ _“we need to stop building computer systems that merely get better and better 
 
 In this article the author invokes R. Penrose's arguments as well.
 
+**Donald Hoffman** on Consciousness and its Physical Headset: link [here](https://youtu.be/0hu6BEXoPqQ)
+
 More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems from 1930, translated by Bernard Meltzer
  with introduction by R.B. Braithwaite:
 
