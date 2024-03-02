@@ -7,6 +7,18 @@
 
 ## Physics-Inspired Modeling
 
+### Physics-inspired modeling in Deep Neural Nets
+
+* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
+### Statistical Mechanics and Information Theory
+
+* [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
+
+* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
+
+* [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
+
 ### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
@@ -18,13 +30,6 @@
 
 * [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
 
-* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
-
-* [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
-
-* [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
-
-* [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
 
 * [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
 
