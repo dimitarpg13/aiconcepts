@@ -10,6 +10,8 @@
 ### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
 * [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
+* [Non-linear Dynamics and Chaos, Steven Strogatz, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/Nonlinear_Dynamics_and_Chaos_2018_Steven_Strogatz.pdf)
+
 * [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
 
 * [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
