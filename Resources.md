@@ -8,15 +8,15 @@
 ## Physics-Inspired Modeling
 
 ### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
-* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
+* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
 * [Non-linear Dynamics and Chaos, Steven Strogatz, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/Nonlinear_Dynamics_and_Chaos_2018_Steven_Strogatz.pdf)
 
-* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
+* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/Strogatz_SYNC_2003.pdf)
 
-* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
+* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/strogatz1993a.pdf)
 
-* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
+* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
 
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
 
