@@ -7,7 +7,7 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 ## What's Next?
 
 
-## Relevant Work 
+## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
