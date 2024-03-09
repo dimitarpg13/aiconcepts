@@ -485,3 +485,5 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [What is Missing Towards Human Level AI - Towards Causal Representation Learning, Yoshua Bengio Guest Talk](https://youtu.be/rKZJ0TJWvTk)
 
 * [How the brain shapes reality - with Andy Clark in The Royal Institution, 26 January 2024, youtube video](https://youtu.be/A1Ghrd7NBtk)
+
+* [Will digital intelligence replace biological intelligence?, Geoffrey Hinton, Romanes Lecture, U. of Oxford, March 2024](https://youtu.be/N1TEjTeQeg0)
