@@ -7,7 +7,7 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 ## What's Next?
 
 
-## Relevant Work 
+## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
@@ -34,6 +34,8 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
+
+ * [Information Theory and Statistical Mechanics](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
