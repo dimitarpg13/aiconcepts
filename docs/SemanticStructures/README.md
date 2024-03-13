@@ -34,4 +34,4 @@ We need to understand the meaning of the metric distance in Template Space – w
 
 3) Elaborate on the mechanism of Reinforcement Learning through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
 
-There is a more advanced topic of research which I would like to gain better understanding and have clearer idea in my mind about. This is topic of _Hierarchical Semantic Template Spaces_. 
+There is a more advanced topic which I would like to gain better understanding and have clearer idea in my mind about. This is topic of _Hierarchical Semantic Template Spaces_. 
