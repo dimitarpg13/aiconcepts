@@ -6,6 +6,9 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 
 ## What's Next?
 
+There are two interesting topics in Semantic Structures which I feel are of importance to the whole idea of semantic simulation by using a dynamical system.
+
+
 
 ## Selected Topics in Machine Learning
  
