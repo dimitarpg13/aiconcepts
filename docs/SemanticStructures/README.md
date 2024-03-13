@@ -10,7 +10,9 @@ Semantic structures are abstract entitities which can be represented by directed
 
 Additional properties with which each semantic particle is adorned is the semantic mass and semantic energy of the particle. Definition of semantic mass based on information content of a semantic particle is formulated. Each semantic particle is attracted or repelled by other semantic particles. Laws of attraction are postulated and a set of equations based on conservation of certain semantic quantities are derived which govern the formation and relative motion of structures in Semantic Space which govern the movement of structures in semantic space. The equations of evolution of the semantic structures represent a process which depends on the initial conditions in more complex way than the evolution of Markov processes with hidden states. Important property of the semantic equations of evolution is the reversibility of the evolution of the system state i.e. we can find the state of the system at a moment `t_{j-1}` given the state of the system at moment `t_j`.
 
-Rules of reinforcement are postulated which strengthen the connections between closely related concepts and structures. Competing adversarial agents would modify the priorities on choosing inferences when acting on set of possible inferences. Special attention is paid to the concept of semantic inference and its implementation via the notion of semantic template structures.
+Rules of reinforcement are postulated which strengthen the connections between closely related concepts and structures.  Special attention is paid to the concept of semantic inference and its implementation via the notion of semantic template structures.
+
+
 
 ## What's Next?
 
