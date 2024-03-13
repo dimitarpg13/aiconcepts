@@ -6,13 +6,14 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 
 ## What's Next?
 
-There are two interesting topics in Semantic Structures which I feel are of importance to the whole idea of semantic simulation by using a dynamical system.
-1) Aggregation of Semantic Structures:
+There are two topics in Semantic Structures which need to be worked on and completed as I feel those are of importance to the whole idea of semantic simulation by using a dynamical system. Those topics are:
+
+1) Modeling of the aggregation of Semantic Structures via attractive / repulsive forces acting on the former and via their interaction with the semantic energy field:
 The idea is to combine the effect of the semantic attractive / repulsive forces with the effect of the altered semantic energy field to guide the semantic ensembles entering the system toward their true semantic position. The important thing to recognize in order to make this mechanism work is that the semantic attractive and repulsive forces cause deviations in the ensemble trajectory on a smaller scale than the scale at which the altered semantic energy field acts over the ensemble trajectory. That is, the semantic attractive and repulsive forces will start affecting the trajectory of a semantic ensemble travelling toward its true semantic position only if it is close enough to the particles or structures which exert the aforementioned forces. That is, the semantic forces are local in nature while the alterations in the semantic energy field have global effect and are not limited to a specific region in semantic space. 
 Need more work 
 Need more work on the model of attarction and repulsion of Semantic Structres via semantic association / disassociations. Need to clarify how this mechanism will work together with the energy field based mechanism to synthesize the correct semantic structure after some evolution.
 
-2) Semantic Templates:
+2) Completing the modeling of Semantic Inference via Semantic Templates:
 We need to understand the meaning of the metric distance in Template Space – what does it mean for two Template Structures to be close to each other in Template Space? Does it mean that regions in Semantic Space they are bound to will be close? Or it means that the kind of patterns they are going to recognize will be somewhat similar? How does the Inference Structures factor in the definition of a distance between two Semantic Templates? So the completion of the Semantic Template concept will depend on finding meaningful answers to these questions.
 
 ## Selected Topics in Machine Learning
