@@ -22,7 +22,7 @@ We need to understand the meaning of the metric distance in Template Space – w
    
    b) through modifying templates parameters based on past inferences.
    
-   Hint: cast each of those problems as online problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
+   _Hint_: cast each of those problems as online optimization problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
 
 There is a more advanced topic of research which I would like to gain better understanding. This is topic of _Hierarchical Semantic Template Spaces_. 
 
