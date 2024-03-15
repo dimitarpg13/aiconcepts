@@ -16,11 +16,11 @@ Need more work on the model of attraction / repulsion of semantic structures via
 2) Completing the modeling of Semantic Inference via Semantic Templates:
 We need to understand the meaning of the metric distance in Template Space – what does it mean for two Template Structures to be close to each other in Template Space? Does it mean that regions in Semantic Space they are bound to will be close? Or it means that the kind of patterns they are going to recognize will be somewhat similar? How does the Inference Structures factor in the definition of a distance between two Semantic Templates? So the completion of the Semantic Template concept will depend on finding meaningful answers to these questions.
 
-3) Elaborate on the mechanism of Reinforcement Learning applied in Semantic Space:
+3) Elaborate on Reinforcement Learning applied to variety of _concepts_ in Semantic Space:
 
-   a) through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
-   
-   b) through modifying templates parameters based on past inferences.
+    a) for _Semantic Energy_: through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
+
+    b) for _Semantic Templates_: through modifying templates parameters, such as the bound region of the template, based on past inferences.
    
    _Hint_: cast each of those problems as online optimization problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
 
