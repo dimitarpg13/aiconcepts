@@ -13,3 +13,6 @@ That is not thinking really. This is another predictive engine which has been tr
 It is a definitely interesting idea which models an important aspect of human thinking - that is reinforcing certain types of "thoughts" based on previously made inferences. but I do not think that this is thinking. What Zelikman is doing is very interesting (and I think 𝐚 𝐟𝐢𝐫𝐬𝐭) - the application of policy gradient RL in online context inside an LLM to reinforce reasoning based on "thoughts" generated in the past and discard "harmful" thoughts with low enough rewards. What Eric Zelikman has done is definitely a step in the right direction.
 
 In [the earlier paper of Zelikman](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Eric_Zelikman_2022.pdf) on self-thought reasoning. 
+
+<img src="literature/LLM/human_like_reasoning/images/STaR_algorithm.png" width="600">\
+Figure 2: The STaR algorithm
