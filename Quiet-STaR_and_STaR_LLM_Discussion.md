@@ -14,5 +14,5 @@ It is a definitely interesting idea which models an important aspect of human th
 
 In [the earlier paper of Zelikman](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Eric_Zelikman_2022.pdf) on self-thought reasoning. 
 
-<img src="literature/LLM/human_like_reasoning/images/STaR_algorithm.png" width="600">\
+<img src="literature/LLM/human_like_reasoning/images/STaR_Algorithm.png" width="600">\
 Figure 2: The STaR algorithm
