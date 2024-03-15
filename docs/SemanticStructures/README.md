@@ -48,6 +48,6 @@ We need to understand the meaning of the metric distance in Template Space – w
 
     d) for _Semantic Templates_: through modifying the laws of aggregation of Semantic Templates (_need to work first on the laws of aggregation of the latter_)
 
-_Hint_: cast each of those problems as online optimization problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
+_Hint_: pose each of those problems as online optimization problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
 
 There is a more advanced topic which I would like to gain better understanding and have clearer idea in my mind about. This is topic of _Hierarchical Semantic Template Spaces_. 
