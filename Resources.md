@@ -206,6 +206,14 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
+### Human-like reasoning and Representation Learning in Large Language Models
+
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Eric_Zelikman_2024.pdf)
+
+* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, Eric Zelikman et al., Stanford U. 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Eric_Zelikman_2022.pdf)
+
+### General advances in Large Language Models using Transformer-based Architectures
+
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
 
 * [Is the Large Language Model revolution just getting started or are we closer to the end?, David Johnston, ThoughtWorks,  2023](https://www.linkedin.com/pulse/large-language-model-revolution-just-getting-started-we-johnston-oluxe/)
