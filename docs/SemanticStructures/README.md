@@ -40,9 +40,11 @@ We need to understand the meaning of the metric distance in Template Space – w
 
 3) Elaborate on Reinforcement Learning applied to variety of _concepts_ in Semantic Space:
 
-a) for _Semantic Energy_: through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
+    a) for _Semantic Energy_: through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
 
-b) for _Semantic Templates_: through modifying templates parameters, such as the bound region of the template, based on past inferences.
+    b) for _Semantic Templates_: through modifying templates parameters, such as the bound region of the template, based on past inferences.
+
+    c) for _Semantic Templates_: through modifying the laws of aggregation of Semantic Templates (_need to work first on the laws of aggregation of the latter_)
 
 _Hint_: cast each of those problems as online optimization problems which can be solved with appropriately chosen policy-based or value-based RL formalism.
 
