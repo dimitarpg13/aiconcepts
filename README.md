@@ -20,7 +20,7 @@ We need to understand the meaning of the metric distance in Template Space – w
 
    a) for Semantic Energy: through alteration of the semantic energy field to find the true semantic in-situ positions of semantic structures.
 
-   b) for Association / Disassociation Links: recall those are the mediators of the attractive/repulsive forces between particle ensembles in Semantic Space. Strengthening / weakening those should happen based on previously made connections and resulting inferences.
+   b) for Association / Disassociation Links, the mediators of the attractive/repulsive forces between particle ensembles in Semantic Space. Strengthening / weakening those should happen based on previously made connections and resulting inferences.
 
    c) for Semantic Templates: through modifying templates parameters, such as the bound region of the template, based on past inferences.
 
