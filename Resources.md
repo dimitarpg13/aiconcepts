@@ -374,6 +374,14 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [The Mystery of Spinors, Richard Behiel, 2024, youtube video](https://youtu.be/b7OIbMCIfs4)
 
+* [Spinnors for Everyone, Gerrit Coddens, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Spinors-for-every-one-Codens_2017.pdf)
+
+* [Child's Guide to Spinnors, WO Straub, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_Childs_Guide_to_Spinors_Straub_2017.pdf)
+
+* [Primer on Spinors, V. Rallbhandi, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_primer_on_spinors_Rallabhandi_2021.pdf)
+
+* [Spinnors, A. Steanne, Oxford U., 2010 (book chapter)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/rel_C_spinors.pdf)
+
 ## The Debate around Consciousness
 
 Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/TheDebateAroundConsciousness.md)
