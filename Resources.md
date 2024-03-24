@@ -482,6 +482,8 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 
     related paper: [Explaining Data-Driven Document Classifications, D. Martens et al, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Explaining_Data-Driven_Document_Classifications_Martens_2014.pdf)
 
+* [Evolving Chess Puzzles: An exploration of Evolutionary AI, Robert Elmes, 2024](https://towardsdatascience.com/evolving-chess-puzzles-e23e6a58963a)
+
 ## videos
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
