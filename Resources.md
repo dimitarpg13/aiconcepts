@@ -382,6 +382,14 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Spinnors, A. Steanne, Oxford U., 2010 (book chapter)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/rel_C_spinors.pdf)
 
+### Quaternions, Diophantine Analsys, topics from Number Theory
+
+* [Diophantine Analysis, R. Carmichael, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/DiophantineAnalysisCarmichael.pdf)
+
+* [On Generalized Quaternions, Gordon Pall, 1946](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/OnGeneralizedQuaternions1953.pdf)
+
+* [Matrix Generation of Pythagorean n-tuples, D. Cass, P. Arpaia, Proceedings of AMS, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/MatrixGenerationOfPythagoreanNTuples.pdf)
+
 ## The Debate around Consciousness
 
 Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/TheDebateAroundConsciousness.md)
