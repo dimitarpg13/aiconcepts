@@ -370,6 +370,10 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
 
+### Spinors
+
+* [The Mystery of Spinors, Richard Behiel, 2024, youtube video](https://youtu.be/b7OIbMCIfs4)
+
 ## The Debate around Consciousness
 
 Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/TheDebateAroundConsciousness.md)
