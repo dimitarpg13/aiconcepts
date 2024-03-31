@@ -59,7 +59,7 @@ There is a more advanced topic of research which I would like to gain better und
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
- * [Information Theory and Statistical Mechanics](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
+ * [Information Theory, Statistical Mechanics, Diffusion Models](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
