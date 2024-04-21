@@ -61,7 +61,7 @@ There is a more advanced topic of research which I would like to gain better und
 
  * [Information Theory, Statistical Mechanics, Diffusion Models](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
- * [Queuing Networks, Queuing Theory, Reversible Stochastic Processes](https://github.com/dimitarpg13/queueing_theory/blob/main/Resources.md)
+ * [Queueing Networks, Queueing Theory, Reversible Stochastic Processes](https://github.com/dimitarpg13/queueing_theory/blob/main/Resources.md)
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
