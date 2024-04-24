@@ -37,3 +37,7 @@ More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems f
 **Arthur Julliani et al** explore the connection between consciousness and intelligence looking into three modern theories attempting to explain conscious function - Global Workspace Theory (GWT), Information Generation Theory (IGT), Attention Schema Theory (AST) in their paper
 
 [On the link between conscious function and general intelligence in humans and machines, Arthur Juliani et al, Microsoft, Araya Inc, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/On_the_link_between_conscious_function_and_general_intelligence_in_humans_and_machines_Juliani_2022.pdf)
+
+**Stan Franklin et al** attempt to analyze consciousness quantitatively from the standpoint of its impact on how we phsycially function - specifically they study the impact of consciousness on the memory retrieval system in their paper
+
+[The Role of Consciousness in Memory, Stan Franklin, Bernard J. Baars, Uma Ramamurthy, Matthew Ventura, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/The_Role_of_Consciousness_in_Memory_Franklin_2003.pdf)
