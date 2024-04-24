@@ -424,6 +424,8 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Natural Language Grammar Induction using Constituent Context Model, Dan Klein and Chris Manning, Stanford U, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/natural-language-grammar-induction-using-a-constituent-context-model.pdf)
 
+* [The Role of Consciousness in Memory, Stan Franklin, Bernard J. Baars, Uma Ramamurthy, Matthew Ventura, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/The_Role_of_Consciousness_in_Memory_Franklin_2003.pdf)
+
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
 
 * [The Foundation of Causal Inference, Judea Pearl, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CausalInferencePearl/FoundationsOfCausalInferencePearl2010.pdf)
