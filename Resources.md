@@ -466,6 +466,10 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
+* [A Path Towards Autonomous Machine Intelligence, Yann LeCun, Courant Institute of Mathematical Sciences, NYU, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/a_path_towards_autonomous_machine_intelligence_Yan_LeCunn_2022.pdf)
+
+* [On the link between conscious function and general intelligence in humans and machines, Arthur Juliani et al, Microsoft, Araya Inc, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/On_the_link_between_conscious_function_and_general_intelligence_in_humans_and_machines_Juliani_2022.pdf)
+
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making, Teppo Felin, Matthias Holweg, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Theory_Is_All_You_Need-AI_Human_Cognition_and_Decision_Making_Felin_Holweg_2024.pdf)
 
 ## medium
