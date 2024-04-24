@@ -34,6 +34,6 @@ More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems f
 
 [On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Kurt Goedel, translated by B. Meltzer, Dover Pubs 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Kurt_G%C3%B6del_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf)
 
-**Arthur Julliani et al** expolore the connection between consciousness and intelligence looking into three modern theories attempting to explain conscious function - Global Workspace Theory (GWT), Information Generation Theory (IGT), Attention Schema Theory (AST) in their paper
+**Arthur Julliani et al** explore the connection between consciousness and intelligence looking into three modern theories attempting to explain conscious function - Global Workspace Theory (GWT), Information Generation Theory (IGT), Attention Schema Theory (AST) in their paper
 
 [On the link between conscious function and general intelligence in humans and machines, Arthur Juliani et al, Microsoft, Araya Inc, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/On_the_link_between_conscious_function_and_general_intelligence_in_humans_and_machines_Juliani_2022.pdf)
