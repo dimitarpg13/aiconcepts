@@ -41,3 +41,6 @@ More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems f
 **Stan Franklin et al** attempt to analyze consciousness quantitatively from the standpoint of its impact on how we phsycially function - specifically they study the impact of consciousness on the memory retrieval system in their paper
 
 [The Role of Consciousness in Memory, Stan Franklin, Bernard J. Baars, Uma Ramamurthy, Matthew Ventura, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/The_Role_of_Consciousness_in_Memory_Franklin_2003.pdf)
+
+**Ethan Siegel** speculates as others before him that consciousness is a quantum pehomenon which is tied directly to the values of the fundamental constants in Physics. This precise mixture of particles since the Bing Bang is hardly a coincidence he speculates in
+[Can the known particles and interactions explain consciousness? Ethan Siegel, April 30, 2024](https://bigthink.com/starts-with-a-bang/consciousness-arise-particles/)
