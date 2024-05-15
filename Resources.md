@@ -206,6 +206,10 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
+### Converging Representations
+
+* [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
+
 ### Human-like reasoning and Representation Learning in Large Language Models
 
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Eric_Zelikman_2024.pdf)
