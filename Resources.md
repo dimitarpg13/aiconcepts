@@ -1,9 +1,13 @@
 # Resource on Thought Forming, Consciousness, Inteligent Machines, Inference, Logic Systems
 
 
-## Understaning Cognition and Thought Formation
+## Understaning Cognition, Memory and Thought Formation
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
+
+* [Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage, Quanta Magazine, Yasemin Saplakoglu, 2024](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/)
+
+  related paper: [Selection of experience for memory by hippocampal sharp wave ripples, Wannan Yang et al, Science, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Selection_of_experience_for_memory_by_hippocampal_sharp_wave_ripples_Yang_2024.pdf)
 
 ## Physics-Inspired Modeling
 
