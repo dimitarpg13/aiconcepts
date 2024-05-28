@@ -523,6 +523,7 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [Evolving Chess Puzzles: An exploration of Evolutionary AI, Robert Elmes, 2024](https://towardsdatascience.com/evolving-chess-puzzles-e23e6a58963a)
 
 ## videos
+* [A Path Towards Autonomous Machine Intelligence with Dr. Yann LeCun, AFOSR](https://www.youtube.com/watch?v=EvSe0ktD95k)
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
 
