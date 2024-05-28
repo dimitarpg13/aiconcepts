@@ -484,6 +484,8 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making, Teppo Felin, Matthias Holweg, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Theory_Is_All_You_Need-AI_Human_Cognition_and_Decision_Making_Felin_Holweg_2024.pdf)
 
+* [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
@@ -523,7 +525,9 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [Evolving Chess Puzzles: An exploration of Evolutionary AI, Robert Elmes, 2024](https://towardsdatascience.com/evolving-chess-puzzles-e23e6a58963a)
 
 ## videos
-* [A Path Towards Autonomous Machine Intelligence with Dr. Yann LeCun, AFOSR](https://www.youtube.com/watch?v=EvSe0ktD95k)
+* [A Path Towards Autonomous Machine Intelligence with Dr. Yann LeCun, AFOSR, 2024](https://www.youtube.com/watch?v=EvSe0ktD95k)
+
+  related paper: [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
 
