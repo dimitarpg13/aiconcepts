@@ -178,6 +178,10 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Self-organization in Developmental Processes : Can Systems Approaches Work? Esther Thelen, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-organization_an_Developmental_Processes-Can_Systems_Approaches_Work_Esther_Thelen_1989.pdf)
 
+* [The New Math of How Large-Scale Order Emerges, Phillip Ball, Quanta Magazine, June 2024](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
+
+* [Software in the natural world: A computational approach to hierarchical emergence, Fernando E. Rosas et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Software_in_the_natural_world-A_computational_approach_to_hierarchical_emergence_Rosas_2024.pdf)
+
 * [When the Brain operates at peak performance?, John M. Beggs, Jan 2023](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
 
 * [Dimensionality and dynamics in networks of neurons, Initiative for the Theoretical Sciences, youtube presentations](https://www.youtube.com/watch?v=afSXCH-RX9M)
