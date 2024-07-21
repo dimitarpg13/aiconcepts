@@ -3,6 +3,8 @@
 
 ## Understaning Cognition, Memory and Thought Formation
 
+* [Computing Machinery and Intelligence, Alan Turing, 1950](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Computing_Machinery_and_Intelligence_Turing_1950.pdf)
+
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
 * [Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage, Quanta Magazine, Yasemin Saplakoglu, 2024](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/)
