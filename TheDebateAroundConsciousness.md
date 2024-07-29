@@ -50,3 +50,9 @@ More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems f
 [Can the known particles and interactions explain consciousness? Ethan Siegel, April 30, 2024](https://bigthink.com/starts-with-a-bang/consciousness-arise-particles/)
 
 Nice recent video by **Matt O'Dowd** summarizes the problem:  [Was Penrose Right? New Evidence for Quantum Effects In The Brain, PBS SpaceTime, Jul 25, 2024](https://youtu.be/xa2Kpkksf3k?si=cq4-3FS23O6KYIZf)
+
+Critique on the [Penrose-Lucas argument](https://en.wikipedia.org/wiki/Penrose%E2%80%93Lucas_argument):
+
+[Penrose's Philisophical Error, L.J. Landau, Kings College London](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/PenrosePhilosophicalError_Landau.pdf)
+
+[Penrose Goedelian Argument, S. Feferman, Stanford](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/penrose_goedelian_argument_feferman_stanford.pdf)
