@@ -422,6 +422,12 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Abductive Reasoning as a Way of Worldmaking by H. Fischer, Heidelberg, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Abductive_Reasoning_as_a_Way_of_Worldmaking_fischer.pdf)
 
+* [Three Models for Description of Languages, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThreeModelsForDescriptionOfLanguageChomsky1956.pdf)
+
+* [On Certain Formal Properties of Grammars, Noam Chomsky, MIT, 1959](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/OnCertainFormalPropertiesOfGrammarsChomsky1959.pdf)
+
+* [The Algebraic Theory of Context-Free Languages, Noam Chomsky, MIT, 1963](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/TheAlgebraicTheoryOfContextFreeLanguages_Chomsky_1963.pdf)
+
 * [Perception and Communication, D.E. Broadbent, 1958](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Broadbent_1957_perceptioncommun.pdf)
 
 * [Elements of Structural Syntax, Luciene Tesniere, 1965 (original publication date)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GrammarAndSyntax/Elements_of_Structural_Syntax_Tesnierre_2015.pdf)
