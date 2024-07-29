@@ -49,4 +49,4 @@ More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems f
 **Ethan Siegel** speculates as others before him that consciousness is a quantum pehomenon which is tied directly to the values of the fundamental constants in Physics. This precise mixture of particles since the Bing Bang is hardly a coincidence and has given rise to consciousness he speculates in :
 [Can the known particles and interactions explain consciousness? Ethan Siegel, April 30, 2024](https://bigthink.com/starts-with-a-bang/consciousness-arise-particles/)
 
-Nice recent video by Matt O'Doud summarizes the problem:  [Was Penrose Right? New Evidence for Quantum Effects In The Brain, PBS SpaceTime, Jul 25, 2024](https://youtu.be/xa2Kpkksf3k?si=cq4-3FS23O6KYIZf)
+Nice recent video by **Matt O'Dowd** summarizes the problem:  [Was Penrose Right? New Evidence for Quantum Effects In The Brain, PBS SpaceTime, Jul 25, 2024](https://youtu.be/xa2Kpkksf3k?si=cq4-3FS23O6KYIZf)
