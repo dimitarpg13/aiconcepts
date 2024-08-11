@@ -1,28 +1,41 @@
 # Resource on Thought Forming, Consciousness, Inteligent Machines, Inference, Logic Systems
 
 
-## Understaning Cognition and Thought Formation
+## Understaning Cognition, Memory and Thought Formation
+
+* [Computing Machinery and Intelligence, Alan Turing, 1950](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Computing_Machinery_and_Intelligence_Turing_1950.pdf)
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
+* [Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage, Quanta Magazine, Yasemin Saplakoglu, 2024](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/)
+
+  related paper: [Selection of experience for memory by hippocampal sharp wave ripples, Wannan Yang et al, Science, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Selection_of_experience_for_memory_by_hippocampal_sharp_wave_ripples_Yang_2024.pdf)
+
 ## Physics-Inspired Modeling
 
-### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
-* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
-
-* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Strogatz_SYNC_2003.pdf)
-
-* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/strogatz1993a.pdf)
-
-* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
+### Physics-inspired modeling in Deep Neural Nets
 
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges, Bronstein, Bruno, Cohen, Velickovic, DeepMind, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Geometric_Deep_Learning_Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf)
+
+### Statistical Mechanics and Information Theory
 
 * [Thermodynamics of Information, Juan M.R. Parrondo, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/Thermodynamics_of_Information_Parrondo_2023.pdf)
 
 * [Information Theory and Statistical Mechanics, E.T. Jaynes, Stanford U., 1957](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThermodynamicsOfComplexSystemsSelfReplicationSelfOrganization/InformationTheoryAndStatisticalMechanics_Jaynes_StanfordU_1957.pdf)
 
 * [Non-Equilibrium Statistical Mechanics, Ilya Prigogine, 1962 originally (2017 Dover edition)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PhysicsBasedInterpretations/non-equilibrium-statistical-mechanics-prigogine_1962.pdf)
+
+### Dynamical Systems, Chaos Theory, Spontaneous Synchronization
+* [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
+
+* [Non-linear Dynamics and Chaos, Steven Strogatz, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/Nonlinear_Dynamics_and_Chaos_2018_Steven_Strogatz.pdf)
+
+* [SYNC, Steven Strogatz, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/Strogatz_SYNC_2003.pdf)
+
+* [Coupled Oscillators and Biological Synchronization, Steven Strogatz, Ian Stewart, 1993](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/strogatz1993a.pdf)
+
+* [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
+
 
 * [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
 
@@ -66,7 +79,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Ultimate Computing: Biomolecular Consciousness and NanoTechnology, David Hameroff, 1987](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/ULTIMATE_COMPUTING_Biomolecular_Consciousness_and_NanoTechnology_Hameroff_1987.pdf)
 
-* [Quantum Computation in Brain Microtubules? The Penrose-Hameroff Orch-OR of Consciousness, Stuart Hameroff and P Marcer, 1998](literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-Off_model_of_Consciousness_hameroff-1998.pdf)
+* [Quantum Computation in Brain Microtubules? The Penrose-Hameroff Orch-OR of Consciousness, Stuart Hameroff and P Marcer, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-OR_model_of_Consciousness_hameroff-1998.pdf)
 
 * [Consciousness and the Universe: Quantum Physics, Evolution, Brain and Mind, collection of articles, Editor: R. Penrose](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Consciousness_and_the_Universe_Roger_Penrose.pdf)
 
@@ -167,6 +180,10 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Self-organization in Developmental Processes : Can Systems Approaches Work? Esther Thelen, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-organization_an_Developmental_Processes-Can_Systems_Approaches_Work_Esther_Thelen_1989.pdf)
 
+* [The New Math of How Large-Scale Order Emerges, Phillip Ball, Quanta Magazine, June 2024](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
+
+* [Software in the natural world: A computational approach to hierarchical emergence, Fernando E. Rosas et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Software_in_the_natural_world-A_computational_approach_to_hierarchical_emergence_Rosas_2024.pdf)
+
 * [When the Brain operates at peak performance?, John M. Beggs, Jan 2023](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/)
 
 * [Dimensionality and dynamics in networks of neurons, Initiative for the Theoretical Sciences, youtube presentations](https://www.youtube.com/watch?v=afSXCH-RX9M)
@@ -198,6 +215,18 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [Student of Games: A Unified Learning Algorithm for Both Perfect and Imperfect Information Games, Martin Schmid et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Student_of_Games-a_unified_learning_algorithm_for_both_perfect_and_imperfect_information_games_Schmidt_2023.pdf)
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
+
+### Converging Representations
+
+* [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
+
+### Human-like reasoning and Representation Learning in Large Language Models
+
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Eric_Zelikman_2024.pdf)
+
+* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, Eric Zelikman et al., Stanford U. 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Eric_Zelikman_2022.pdf)
+
+### General advances in Large Language Models using Transformer-based Architectures
 
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
 
@@ -355,6 +384,26 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
 
+### Spinors
+
+* [The Mystery of Spinors, Richard Behiel, 2024, youtube video](https://youtu.be/b7OIbMCIfs4)
+
+* [Spinnors for Everyone, Gerrit Coddens, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Spinors-for-every-one-Codens_2017.pdf)
+
+* [Child's Guide to Spinnors, WO Straub, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_Childs_Guide_to_Spinors_Straub_2017.pdf)
+
+* [Primer on Spinors, V. Rallbhandi, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_primer_on_spinors_Rallabhandi_2021.pdf)
+
+* [Spinnors, A. Steanne, Oxford U., 2010 (book chapter)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/rel_C_spinors.pdf)
+
+### Quaternions, Diophantine Analsys, topics from Number Theory
+
+* [Diophantine Analysis, R. Carmichael, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/DiophantineAnalysisCarmichael.pdf)
+
+* [On Generalized Quaternions, Gordon Pall, 1946](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/OnGeneralizedQuaternions1953.pdf)
+
+* [Matrix Generation of Pythagorean n-tuples, D. Cass, P. Arpaia, Proceedings of AMS, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/MatrixGenerationOfPythagoreanNTuples.pdf)
+
 ## The Debate around Consciousness
 
 Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/TheDebateAroundConsciousness.md)
@@ -373,6 +422,14 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Abductive Reasoning as a Way of Worldmaking by H. Fischer, Heidelberg, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Abductive_Reasoning_as_a_Way_of_Worldmaking_fischer.pdf)
 
+* [Three Models for Description of Languages, Noam Chomsky, MIT, 1956](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ThreeModelsForDescriptionOfLanguageChomsky1956.pdf)
+
+* [On Certain Formal Properties of Grammars, Noam Chomsky, MIT, 1959](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/OnCertainFormalPropertiesOfGrammarsChomsky1959.pdf)
+
+* [The Algebraic Theory of Context-Free Languages, Noam Chomsky, MIT, 1963](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/TheAlgebraicTheoryOfContextFreeLanguages_Chomsky_1963.pdf)
+
+* [Perception and Communication, D.E. Broadbent, 1958](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Broadbent_1957_perceptioncommun.pdf)
+
 * [Elements of Structural Syntax, Luciene Tesniere, 1965 (original publication date)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GrammarAndSyntax/Elements_of_Structural_Syntax_Tesnierre_2015.pdf)
 
 * [Procedures as a Representation for Data in A Computer Program For Understanding Natural Language, Terry Winograd, MIT, 1971](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AITR-235_DataRepresentationForUnderstandingNLP.pdf)
@@ -388,6 +445,8 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 * [A Bayesian Framework For Concept Learning, Joshua Tenenbaum, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianInference/BayesianFrameworkForConceptLearningTanenbaum1999.pdf)
 
 * [Natural Language Grammar Induction using Constituent Context Model, Dan Klein and Chris Manning, Stanford U, 2001](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/natural-language-grammar-induction-using-a-constituent-context-model.pdf)
+
+* [The Role of Consciousness in Memory, Stan Franklin, Bernard J. Baars, Uma Ramamurthy, Matthew Ventura, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/The_Role_of_Consciousness_in_Memory_Franklin_2003.pdf)
 
 * [An information integration theory of consciousness by G. Tononi, U. of Wisconsin-Madison, 2004](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AnInformationIntegrationTheoryOfConsciousnessTononi2004.pdf)
 
@@ -431,6 +490,14 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [Statistical Complexity of Boolean Cellular Automata with Short-Term ReactionDiffusion Memory on a Square Lattice, Z. Zarizadeh et al, U of Rome, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CellularAutomata/Statistical_Complexity_of_Boolean_Cellular%20Automata_with_Short-Term_ReactionDiffusion_Memory_on_a_Square_Lattice_Zarezadeh_2019.pdf)
 
+* [A Path Towards Autonomous Machine Intelligence, Yann LeCun, Courant Institute of Mathematical Sciences, NYU, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/a_path_towards_autonomous_machine_intelligence_Yan_LeCunn_2022.pdf)
+
+* [On the link between conscious function and general intelligence in humans and machines, Arthur Juliani et al, Microsoft, Araya Inc, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/On_the_link_between_conscious_function_and_general_intelligence_in_humans_and_machines_Juliani_2022.pdf)
+
+* [Theory Is All You Need: AI, Human Cognition, and Decision Making, Teppo Felin, Matthias Holweg, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Theory_Is_All_You_Need-AI_Human_Cognition_and_Decision_Making_Felin_Holweg_2024.pdf)
+
+* [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
@@ -467,7 +534,12 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 
     related paper: [Explaining Data-Driven Document Classifications, D. Martens et al, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Explainability/Explaining_Data-Driven_Document_Classifications_Martens_2014.pdf)
 
+* [Evolving Chess Puzzles: An exploration of Evolutionary AI, Robert Elmes, 2024](https://towardsdatascience.com/evolving-chess-puzzles-e23e6a58963a)
+
 ## videos
+* [A Path Towards Autonomous Machine Intelligence with Dr. Yann LeCun, AFOSR, 2024](https://www.youtube.com/watch?v=EvSe0ktD95k)
+
+  related paper: [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
 
 * [The Thousand Brains Theory: A framework for Understanding the Neocortex and Building Intelligent Machines, Microsoft Research, 2019](https://www.youtube.com/watch?v=5LFo36g4Lug)
 
@@ -476,3 +548,7 @@ Machine Learning: A Review, S. Verna et al, 2022](https://github.com/dimitarpg13
 * [Daniel Kahneman — Noise: A Flaw in Human Judgment, 2021](https://www.youtube.com/watch?v=5CFjERpwFys)
 
 * [What is Missing Towards Human Level AI - Towards Causal Representation Learning, Yoshua Bengio Guest Talk](https://youtu.be/rKZJ0TJWvTk)
+
+* [How the brain shapes reality - with Andy Clark in The Royal Institution, 26 January 2024, youtube video](https://youtu.be/A1Ghrd7NBtk)
+
+* [Will digital intelligence replace biological intelligence?, Geoffrey Hinton, Romanes Lecture, U. of Oxford, March 2024](https://youtu.be/N1TEjTeQeg0)
