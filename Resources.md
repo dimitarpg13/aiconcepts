@@ -204,6 +204,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Associative Self-Organizing Map, Magnus Johnsson, Germund Hesslow, David Gil, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/AssociativeSelfOrganizingMap_Jonsson_2011.pdf)
 
+* [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction, Blaise Agüera y Arcas et al, Google, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Google_2024.pdf)
+
 ## Multi-Agent models and Game-Theoretical Approaches
 
 * [Statistical Mechanics of Systems with Heterogenous Agents: Minority Games, Damien Challet et al, 1999](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Statistical_mechanics_of_systems_with_heterogeneous_agents-Minority_Games_Challet_1999.pdf)
