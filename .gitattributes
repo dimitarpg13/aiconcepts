@@ -126,6 +126,5 @@ literature/DynamicalSystemsAndChaos/Strogatz_SYNC_2003.pdf filter=lfs diff=lfs m
 literature/BayesianMechanics/Uncertainty_Reward_and_Attention_in_the_Bayesian_Brain_LWhiteley_thesis.pdf filter=lfs diff=lfs merge=lfs -text
 literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf filter=lfs diff=lfs merge=lfs -text
 literature/MultiAgentSimulation/Generative_Agents-Interactive_Simulacra_of_Human_Behavior_Park_2023.pdf filter=lfs diff=lfs merge=lfs -text
-
-
-
+literature/EmergentPhenomenaAndSelfOrganization/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Google_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/PhysicsBasedInterpretations/Nonlinear_Dynamics_and_Chaos_2018_Steven_Strogatz.pdf filter=lfs diff=lfs merge=lfs -text
