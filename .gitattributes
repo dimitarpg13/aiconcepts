@@ -128,3 +128,4 @@ literature/ProbabilisticMethods/MachineLearningProbabilisticPerspective.pdf filt
 literature/MultiAgentSimulation/Generative_Agents-Interactive_Simulacra_of_Human_Behavior_Park_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/EmergentPhenomenaAndSelfOrganization/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Google_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/PhysicsBasedInterpretations/Nonlinear_Dynamics_and_Chaos_2018_Steven_Strogatz.pdf filter=lfs diff=lfs merge=lfs -text
+literature/LLM/AI_models_collapse_when_trained_on_recursively_generated_data_Shumailov_2024.pdf filter=lfs diff=lfs merge=lfs -text
