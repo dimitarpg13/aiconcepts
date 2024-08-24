@@ -67,7 +67,7 @@
 principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
 
 
-### Quantum Cognition and Quantum Consciousness
+### Quantum Cognition, Quantum Consciousness, Epistemology of the Quantum Laws
 
 * [Concepts and Their Dynamics: A Quantum-Theoretic Modeling of Human Thought, Diederik Aerts et al, 2013](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/How_Concepts_Combine_A_Quantum_Theoretic_Modeling_of_Human_Thought_Aerts.pdf)
 
@@ -82,6 +82,20 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [Quantum Computation in Brain Microtubules? The Penrose-Hameroff Orch-OR of Consciousness, Stuart Hameroff and P Marcer, 1998](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Quantum_computation_in_brain_microtubules_the_Orch-OR_model_of_Consciousness_hameroff-1998.pdf)
 
 * [Consciousness and the Universe: Quantum Physics, Evolution, Brain and Mind, collection of articles, Editor: R. Penrose](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Consciousness_and_the_Universe_Roger_Penrose.pdf)
+
+#### Epistemic Interpretations of the Quantum Laws 
+
+* [A simple quantum model linked to a theory of decisions, Inge S Helland, U. of Oslo, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_simple_quantum_model_linked_to_a_theory_of_decisions_Helland.pdf)
+
+* [A new approach towards quantum foundation and some consequences, Inge S. Helland, U. of Oslo, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_new_approach_towards_quantum_foundation_and_some_consequences_Helland_2024.pdf)
+
+* [An epistemic interpretation and foundation of quantum theory, Inge Helland, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/An_epistemic_interpretation_and_foundation_of_quantum_theory_Helland_2019.pdf)
+
+* [Conceptual Variables, Quantum Theory, and Statistical Inference Theory, Inge Helland, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Conceptual_variables_quantum_theory_and_statistical_inference_theory_Helland_2019.pdf)
+
+* [Epistemological and ontological aspects of quantum theory, Inge Helland, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Epistemological_and_ontological_aspects_of_quantum_theory_Helland_2022.pdf)
+
+* [Non-locality and the Epistemic Interpretation of Quantum Mechanics or Where are Alice and Bob?, Y. Ben-Menahem, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Nonlocality_and_the_Epistemic_Interpretation_of_Quantum_Mechanics_Ben_Menahem_2015.pdf)
 
 ### Ising Machines
 
