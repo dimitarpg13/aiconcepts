@@ -244,7 +244,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ### General advances in Large Language Models using Transformer-based Architectures
 
-* [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
+* [AI models collapse when trained on recursively generated data, I. Shumailov et al, Nature, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AI_models_collapse_when_trained_on_recursively_generated_data_Shumailov_2024.pdf)
 
 * [Is the Large Language Model revolution just getting started or are we closer to the end?, David Johnston, ThoughtWorks,  2023](https://www.linkedin.com/pulse/large-language-model-revolution-just-getting-started-we-johnston-oluxe/)
 
@@ -253,6 +253,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, Yevgen Chebotar et al, DeepMind, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Q-Transformer-Scalable_Offline_Reinforcement_Learning_via_Autoregressive_Q-Functions_Chebotar_DeepMind_2023.pdf)
 
 * [Chain-of-Thought Prompting Elicists Reasoning in Large Language Models, Wei et al, Google Research, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain-of-Thought_Prompting_Elicits_Reasoning_in_Large_Language_Models_GoogleResearch_2023.pdf)
+
+* [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
 
 * [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
