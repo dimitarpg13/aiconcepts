@@ -17,6 +17,8 @@
 
 * [Perspective on Judgement and Choice : Mapping Bounded Rationality, D. Kahnemann, Princeton, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf)
 
+* [Cognitive Reflection and Decision Making, S. Frederick, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Frederick_CognitiveReflectionandDecisionMaking_2005.pdf)
+
 * [A Model of Heuristic Judgement, D. Kahnemann, S. Frederick, book chapter, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/model_of_heuristic_judgment_Kahnemann_2005.pdf)
 
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
