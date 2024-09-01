@@ -9,6 +9,8 @@
 
 * [Probabilistic mental models - A Brunswikian theory of confidence, Gerd Gigerenzer et al, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Probabilistic_mental_models-A_Brunswikian_theory_of_confidence_Gigerenzer_1991.pdf)
 
+* [The Four Elementary Forms of Sociality: Framework for a Unified Theory of Social Relations, Alan Page Fiske, 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Four_Elementary_Forms_Sociality_Fiske1992.pdf)
+
 * [How to improve Bayesian reasoning without instruction - Frequency formats, Gerd Gigerenzer, Ulrich Hoffrage, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_to_improve_Bayesian_reasoning_without_instruction-Frequency_formats_Gigerenzer_1995.pdf)
 
 * [On the reaility of cognitive illusions, D. Kahnemann, A. Tversky, 1996](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/On_the_reality_of_cognitive_illusions_kahneman-tversky_1996.pdf)
