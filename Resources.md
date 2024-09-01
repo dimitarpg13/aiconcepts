@@ -25,6 +25,8 @@
 
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
 
+* [Moral Intuition = Fast and Frugal Heurisitcs?, G. Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Moral_intuition_equals_Fast_and_frugal_heuristics_Gigerenzer_2008.pdf)
+
 * [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
