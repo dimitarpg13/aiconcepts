@@ -54,8 +54,9 @@
 
 * [Oscillators that sync and swarm, Kevin O'Keefe, Hyunsuk Hong, Steven Strogatz, 2017](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DynamicalSystemsAndChaos/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
 
-
 * [Percolation: A Close-Up View Reveals the ‘Melting’ Point of an Infinite Graph, Quanta Magazine, 2023](https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/)
+
+* [The Induction of Dynamical Recognizers, Jordan B. Pollack, OSU, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/RNN/the_induction_of_dynamical_recognizers_pollack_1991.pdf)
 
 ### Bayesian Mechanics
 
