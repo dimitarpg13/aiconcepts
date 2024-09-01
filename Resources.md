@@ -15,6 +15,8 @@
 
 * [Perspective on Judgement and Choice : Mapping Bounded Rationality, D. Kahnemann, Princeton, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf)
 
+* [A Model of Heuristic Judgement, D. Kahnemann, S. Frederick, book chapter, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/model_of_heuristic_judgment_Kahnemann_2005.pdf)
+
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
 
 * [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
