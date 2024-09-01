@@ -7,6 +7,8 @@
 
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
+* [The logic of social exchange: Has natural selection shaped how humans reason, Leda Cosmides, Stanford, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_logic_of_social_exchange_Has_natural_selection_shaped_how_humans_reason_Cosmides_1989.pdf)
+
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
 
 * [Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage, Quanta Magazine, Yasemin Saplakoglu, 2024](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/)
