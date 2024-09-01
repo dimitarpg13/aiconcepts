@@ -9,6 +9,8 @@
 
 * [The logic of social exchange: Has natural selection shaped how humans reason, Leda Cosmides, Stanford, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_logic_of_social_exchange_Has_natural_selection_shaped_how_humans_reason_Cosmides_1989.pdf)
 
+* [Probabilistic mental models - A Brunswikian theory of confidence, Gerd Gigerenzer et al, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Probabilistic_mental_models-A_Brunswikian_theory_of_confidence_Gigerenzer_1991.pdf)
+
 * [How to improve Bayesian reasoning without instruction - Frequency formats, Gerd Gigerenzer, Ulrich Hoffrage, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_to_improve_Bayesian_reasoning_without_instruction-Frequency_formats_Gigerenzer_1995.pdf)
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
