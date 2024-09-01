@@ -3,8 +3,6 @@
 
 ## Understaning Cognition, Memory and Thought Formation
 
-* [Computing Machinery and Intelligence, Alan Turing, 1950](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Computing_Machinery_and_Intelligence_Turing_1950.pdf)
-
 * [Thinking Fast and Slow, Daniel Kahneman, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/ThinkingFastAndSlow.pdf)
 
 * [The logic of social exchange: Has natural selection shaped how humans reason, Leda Cosmides, Stanford, 1989](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_logic_of_social_exchange_Has_natural_selection_shaped_how_humans_reason_Cosmides_1989.pdf)
@@ -443,6 +441,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/TheDebateAroundConsciousness.md)
 
 ## More articles
+
+* [Computing Machinery and Intelligence, Alan Turing, 1950](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Computing_Machinery_and_Intelligence_Turing_1950.pdf)
 
 * [Deduction, Induction, and Hypothesis by C.S. Peirce (6th paper from Illustrations of the Logic of Science), 1878](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/CSPeirce/DeductionInductionAndHypothesisPeirce1878.pdf)
 
