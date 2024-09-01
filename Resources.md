@@ -11,6 +11,8 @@
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
 
+* [The Smart System 1: Evidence of the intuitive nature of correct responding on the bat-and-ball problem, B. Bago, W. de Neys, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Smart_System_1_evidence_of_the_intuitive_nature_of_correct_responding_2019.pdf)
+
 * [Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage, Quanta Magazine, Yasemin Saplakoglu, 2024](https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/)
 
   related paper: [Selection of experience for memory by hippocampal sharp wave ripples, Wannan Yang et al, Science, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Selection_of_experience_for_memory_by_hippocampal_sharp_wave_ripples_Yang_2024.pdf)
