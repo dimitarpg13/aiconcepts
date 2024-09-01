@@ -15,6 +15,8 @@
 
 * [On the reaility of cognitive illusions, D. Kahnemann, A. Tversky, 1996](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/On_the_reality_of_cognitive_illusions_kahneman-tversky_1996.pdf)
 
+* [The Rationality of Risky Decisions, Anton Kuehberger, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Rationality_of_Risky_Decisions_Kuhberger_2002.pdf)
+
 * [Perspective on Judgement and Choice : Mapping Bounded Rationality, D. Kahnemann, Princeton, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf)
 
 * [Cognitive Reflection and Decision Making, S. Frederick, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Frederick_CognitiveReflectionandDecisionMaking_2005.pdf)
