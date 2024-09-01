@@ -31,6 +31,8 @@
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
 
+* [Heuristic Decision Making, G. Gigerenzer, W. Gaissmaier, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Heuristic_Decision_Making_Gigerenzer_2011.pdf)
+
 * [How Bad is Incoherence? Hal R. Arkes, G. Gigerenzer, R. Hertwig, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_Bad_Is_Incoherence_Arkes_2016.pdf)
 
 * [The Smart System 1: Evidence of the intuitive nature of correct responding on the bat-and-ball problem, B. Bago, W. de Neys, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Smart_System_1_evidence_of_the_intuitive_nature_of_correct_responding_2019.pdf)
