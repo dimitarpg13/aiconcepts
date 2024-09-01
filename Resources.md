@@ -13,6 +13,8 @@
 
 * [On the reaility of cognitive illusions, D. Kahnemann, A. Tversky, 1996](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/On_the_reality_of_cognitive_illusions_kahneman-tversky_1996.pdf)
 
+* [Perspective on Judgement and Choice : Mapping Bounded Rationality, D. Kahnemann, Princeton, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf)
+
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
 
 * [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
