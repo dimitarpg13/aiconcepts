@@ -13,6 +13,8 @@
 
 * [How to improve Bayesian reasoning without instruction - Frequency formats, Gerd Gigerenzer, Ulrich Hoffrage, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_to_improve_Bayesian_reasoning_without_instruction-Frequency_formats_Gigerenzer_1995.pdf)
 
+* [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
+
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
 
 * [The Smart System 1: Evidence of the intuitive nature of correct responding on the bat-and-ball problem, B. Bago, W. de Neys, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Smart_System_1_evidence_of_the_intuitive_nature_of_correct_responding_2019.pdf)
