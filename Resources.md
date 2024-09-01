@@ -15,6 +15,8 @@
 
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
 
+* [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
+
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
 
 * [The Smart System 1: Evidence of the intuitive nature of correct responding on the bat-and-ball problem, B. Bago, W. de Neys, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Smart_System_1_evidence_of_the_intuitive_nature_of_correct_responding_2019.pdf)
