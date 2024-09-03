@@ -33,6 +33,8 @@ In this article the author invokes R. Penrose's arguments as well.
 
 **Donald Hoffman** on Consciousness and its Physical Headset: link [here](https://youtu.be/0hu6BEXoPqQ)
 
+[Recent interview](https://youtu.be/mU_WBela71Y?si=W5as8eOaDn2S9ta9) of **Donald Hoffman** by Brian Keating in which the interviewed talks about the mathematical apparatus he uses to study consciousness and free will.  
+
 More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems from 1930, translated by Bernard Meltzer
  with introduction by R.B. Braithwaite:
 
