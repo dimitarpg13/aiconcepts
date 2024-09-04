@@ -27,6 +27,8 @@
 
 * [Moral Intuition = Fast and Frugal Heurisitcs?, G. Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Moral_intuition_equals_Fast_and_frugal_heuristics_Gigerenzer_2008.pdf)
 
+* [Fluency Heuristic: A Model of How the Mind Exploits a By-Product of Information Retrieval, Ralph Hertwig, Stefan M. Herzog, Lael J. Schooler, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Fluency_heuristic-A_model_of_how_the_mind_exploits_a_by-product_of_information_retrieval_Hertwig_2008.pdf)
+
 * [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
