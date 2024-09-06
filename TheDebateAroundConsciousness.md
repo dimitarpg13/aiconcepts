@@ -33,7 +33,7 @@ In this article the author invokes R. Penrose's arguments as well.
 
 **Donald Hoffman** on Consciousness and its Physical Headset: link [here](https://youtu.be/0hu6BEXoPqQ)
 
-[Recent interview](https://youtu.be/mU_WBela71Y?si=W5as8eOaDn2S9ta9) of **Donald Hoffman** by Brian Keating in which the interviewed talks about the mathematical apparatus he uses to study consciousness and free will. Namely he talks about multi-agents approach where each agent is modeled by Markovian decision kernel akin to the approach employed by sequential decision modeling (c.f. [Warren Powel](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)). 
+[Recent interview](https://youtu.be/mU_WBela71Y?si=W5as8eOaDn2S9ta9) of **Donald Hoffman** by Brian Keating in which the interviewed talks about the mathematical apparatus he uses to study consciousness and free will. Namely he talks about multi-agents approach where each agent is modeled by Markovian decision kernel akin to the approach employed by sequential decision modeling (c.f. [Warren Powel](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/books/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)). He talks about reductionism and its failures to explain complex phenomena such as consciousness compared with emergence phenomena in complex systems which are increasingly considered in the most recent research studies.
 
 More on this topic: **Kurt Goedel**'s original work on Incompleteness Theorems from 1930, translated by Bernard Meltzer
  with introduction by R.B. Braithwaite:
