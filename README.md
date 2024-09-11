@@ -1,4 +1,4 @@
-# Thought Forming, Consciousness, Intelligent Machines, Computability, Inference, Logic Systems
+# Thought Forming, Consciousness, Intelligent Machines, Semantic Inference, Logic Systems
 
 This repository is a **work in progress**. 
 It contains materials on [concepts, ideas, and mathematical tools](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md) which are considered in the current research toward understanding consciousness,  thought forming and the emergence of human-like reasoning.
