@@ -139,3 +139,5 @@ literature/thinking_and_reasoning/Probabilistic_mental_models-A_Brunswikian_theo
 literature/RNN/the_induction_of_dynamical_recognizers_pollack_1991.pdf filter=lfs diff=lfs merge=lfs -text
 literature/kahneman/kahneman-tversky-on_the_psychology_of_prediction.pdf filter=lfs diff=lfs merge=lfs -text
 literature/kahneman/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf filter=lfs diff=lfs merge=lfs -text
+literature/LLM/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/LLM/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf filter=lfs diff=lfs merge=lfs -text
