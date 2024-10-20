@@ -9,19 +9,33 @@
 
 * [Probabilistic mental models - A Brunswikian theory of confidence, Gerd Gigerenzer et al, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Probabilistic_mental_models-A_Brunswikian_theory_of_confidence_Gigerenzer_1991.pdf)
 
+* [The Four Elementary Forms of Sociality: Framework for a Unified Theory of Social Relations, Alan Page Fiske, 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Four_Elementary_Forms_Sociality_Fiske1992.pdf)
+
 * [How to improve Bayesian reasoning without instruction - Frequency formats, Gerd Gigerenzer, Ulrich Hoffrage, 1995](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_to_improve_Bayesian_reasoning_without_instruction-Frequency_formats_Gigerenzer_1995.pdf)
 
 * [On the reaility of cognitive illusions, D. Kahnemann, A. Tversky, 1996](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/On_the_reality_of_cognitive_illusions_kahneman-tversky_1996.pdf)
 
+* [The Rationality of Risky Decisions, Anton Kuehberger, 2002](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Rationality_of_Risky_Decisions_Kuhberger_2002.pdf)
+
 * [Perspective on Judgement and Choice : Mapping Bounded Rationality, D. Kahnemann, Princeton, 2003](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf)
+
+* [Cognitive Reflection and Decision Making, S. Frederick, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Frederick_CognitiveReflectionandDecisionMaking_2005.pdf)
 
 * [A Model of Heuristic Judgement, D. Kahnemann, S. Frederick, book chapter, 2005](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/kahneman/model_of_heuristic_judgment_Kahnemann_2005.pdf)
 
 * [Gut Feelings: The Intelligence of the Unconscious, Gerd Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/gerd-gigerenzer-gut-feelings_the-intelligence-of-the-unconscious-2008.pdf)
 
+* [Moral Intuition = Fast and Frugal Heurisitcs?, G. Gigerenzer, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Moral_intuition_equals_Fast_and_frugal_heuristics_Gigerenzer_2008.pdf)
+
+* [Fluency Heuristic: A Model of How the Mind Exploits a By-Product of Information Retrieval, Ralph Hertwig, Stefan M. Herzog, Lael J. Schooler, 2008](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Fluency_heuristic-A_model_of_how_the_mind_exploits_a_by-product_of_information_retrieval_Hertwig_2008.pdf)
+
 * [Précis of Bayesian Rationality - The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_Charter_2009.pdf)
 
 * [The Origin of Concepts, Susan Carey, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Origin_of_Concepts_Carey_2009_book.pdf)
+
+* [Heuristic Decision Making, G. Gigerenzer, W. Gaissmaier, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/Heuristic_Decision_Making_Gigerenzer_2011.pdf)
+
+* [How Bad is Incoherence? Hal R. Arkes, G. Gigerenzer, R. Hertwig, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/How_Bad_Is_Incoherence_Arkes_2016.pdf)
 
 * [The Smart System 1: Evidence of the intuitive nature of correct responding on the bat-and-ball problem, B. Bago, W. de Neys, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/thinking_and_reasoning/The_Smart_System_1_evidence_of_the_intuitive_nature_of_correct_responding_2019.pdf)
 

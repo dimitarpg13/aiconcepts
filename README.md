@@ -1,7 +1,9 @@
-# Thought Forming, Consciousness, Intelligent Machines, Computability, Inference, Logic Systems
+# Thought Forming, Consciousness, Intelligent Machines, Semantic Inference, Logic Systems
 
 This repository is a **work in progress**. 
-It contains materials on [concepts, ideas, and mathematical tools](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md) which _maybe_ relevant for the work in progress on [Theory of Semantic Structures](https://github.com/dimitarpg13/aiconcepts/tree/master/docs/SemanticStructures/README.md). 
+It contains materials on [concepts, ideas, and mathematical tools](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md) which are considered in the current research toward understanding consciousness,  thought forming and the emergence of human-like reasoning.
+
+Some of those concepts and ideas _maybe_ relevant for the work in progress on [Theory of Semantic Structures](https://github.com/dimitarpg13/aiconcepts/tree/master/docs/SemanticStructures/README.md). 
 
 
 ## Selected Topics in Machine Learning
@@ -20,15 +22,19 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
  
  * [Probabilistic Machine Learning and Bayesian Methods](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
 
- * [Statistical Learning, Kernel Methods, Kolomogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
+ * [Statistical Learning, Kernel Methods, Kolmogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
 
  * [Optimization, Classification, Regression](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/Resources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
+ * [Image Processing and Computer Vision: Techniques and Algorithms](https://github.com/dimitarpg13/image_processing/blob/main/Resources.md)
+
  * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
 
  * [Deep Learning for solving Image Processing problems and Generative Tasks](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
+
+ * [Deep Learning Models for Time Series Forecasting problems](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/Resources.md)
 
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
@@ -44,7 +50,7 @@ It contains materials on [concepts, ideas, and mathematical tools](https://githu
 
  * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
 
- * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+ * [Thought Forming, Consciousness, Intelligent Machines, Semantic Inference](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
 
 ## Note
