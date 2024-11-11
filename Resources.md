@@ -143,6 +143,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [OIM: Oscillator-based Ising Machines for Solving Combinatorial Optimization Problems, T. Wang et al, UC Berkeley, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IsingMachines/Oscillator-BasedIsingMachinesforSolvingCombinatorialOptimisationProblemsWang2019.pdf)
 
 ### Associative Memory models
+
 * [Associative Memory, Wikipedia](https://en.wikipedia.org/wiki/Associative_memory_(psychology))
 
 * [Hopfield Network, Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
@@ -184,6 +185,14 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 ### Neuromorphic Computing
 
 * [The backpropagation algorithm implemented on spiking neuromorphic hardware, Alpha Renner, Forrest Sheldon, Anatoly Zlotnik, Louis Tao & Andrew Sornborger, Nature Communications, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/The_backpropagation_algorithm_implemented_on_spiking_neuromorphic_hardware_Renner_2024.pdf)
+
+* [Neuromorphic electronics based on copying and pasting the brain, Donhee Ham et al, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/Neuromorphic_electronic_based_on_copying_and_pasting_the_brain_Ham_2021.pdf)
+
+* [A million spiking-neuron integrated circuit with a scalable communication network and interface, Paul A. Merolla et al, Science, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/A_million_spiking-neuron_integrated_circuit_with_a_scalable_communication_network_and_interface_Science-Merolla.pdf)
+
+* [Neuromorphic Computing, C. Mead, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/Neuromorphic_Electronic_Systems_Mead_1990.pdf)
+
+* [Neuromorphic Computing, Wikipedia](https://en.wikipedia.org/wiki/Neuromorphic_computing)
 
 ## Modeling Reasoning via Graph Neural Networks
 
