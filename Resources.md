@@ -189,6 +189,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [A million spiking-neuron integrated circuit with a scalable communication network and interface, Paul A. Merolla et al, Science, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/A_million_spiking-neuron_integrated_circuit_with_a_scalable_communication_network_and_interface_Science-Merolla.pdf)
 
+* [Neuromorphic Computing, Wikipedia](https://en.wikipedia.org/wiki/Neuromorphic_computing)
+
 * [Neuromorphic Computing, C. Mead, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/Neuromorphic_Electronic_Systems_Mead_1990.pdf)
 
 ## Modeling Reasoning via Graph Neural Networks
