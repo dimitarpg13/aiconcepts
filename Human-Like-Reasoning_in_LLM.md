@@ -1,4 +1,6 @@
-# Discussion on Quiet-STaR and STaR (Self-Thaught Reasoner) Large Language Models
+# Discussion on Human-Like Reasoning Implementation Attempts in LLMs
+
+## Quiet-STaR and STaR (Self-Thaught Reasoner) 
 
 papers:
 
