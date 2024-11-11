@@ -185,6 +185,12 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [The backpropagation algorithm implemented on spiking neuromorphic hardware, Alpha Renner, Forrest Sheldon, Anatoly Zlotnik, Louis Tao & Andrew Sornborger, Nature Communications, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/The_backpropagation_algorithm_implemented_on_spiking_neuromorphic_hardware_Renner_2024.pdf)
 
+* [Neuromorphic electronics based on copying and pasting the brain, Donhee Ham et al, 2021](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/Neuromorphic_electronic_based_on_copying_and_pasting_the_brain_Ham_2021.pdf)
+
+* [A million spiking-neuron integrated circuit with a scalable communication network and interface, Paul A. Merolla et al, Science, 2014](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/A_million_spiking-neuron_integrated_circuit_with_a_scalable_communication_network_and_interface_Science-Merolla.pdf)
+
+* [Neuromorphic Computing, C. Mead, 1990](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/Neuromorphic_Electronic_Systems_Mead_1990.pdf)
+
 ## Modeling Reasoning via Graph Neural Networks
 
 * [Everything is Connected: Graph Neural Networks, Petar Velickovic, DeepMind U Cambirdge, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GNN/Everything_is_Connected-Graph_Neural_Networks_Petar_Velickovic_2023.pdf)
