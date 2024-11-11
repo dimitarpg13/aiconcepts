@@ -183,7 +183,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ### Neuromorphic Computing
 
-[The backpropagation algorithm implemented on spiking neuromorphic hardware, Alpha Renner, Forrest Sheldon, Anatoly Zlotnik, Louis Tao & Andrew Sornborger, Nature Communications, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/The_backpropagation_algorithm_implemented_on_spiking_neuromorphic_hardware_Renner_2024.pdf)
+* [The backpropagation algorithm implemented on spiking neuromorphic hardware, Alpha Renner, Forrest Sheldon, Anatoly Zlotnik, Louis Tao & Andrew Sornborger, Nature Communications, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NeuromorphicComputing/The_backpropagation_algorithm_implemented_on_spiking_neuromorphic_hardware_Renner_2024.pdf)
 
 ## Modeling Reasoning via Graph Neural Networks
 
