@@ -1,6 +1,6 @@
 # Discussion on Human-Like Reasoning Implementation Attempts in LLMs
 
-## Quiet-STaR and STaR (Self-Thaught Reasoner) 
+## Quiet-STaR and STaR (Self-Taught Reasoner) 
 
 papers:
 
