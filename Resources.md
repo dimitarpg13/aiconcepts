@@ -288,6 +288,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ### Human-like reasoning and Representation Learning in Large Language Models
 
+* [Reasoning Language Models: A Blueprint, M. Besta et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf)
+
 * [Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
 
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
