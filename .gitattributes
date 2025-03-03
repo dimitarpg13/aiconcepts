@@ -147,3 +147,5 @@ literature/NeuromorphicComputing/Neuromorphic_electronic_based_on_copying_and_pa
 literature/EmergentPhenomenaAndSelfOrganization/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Pan_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/LLM/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/EmergentPhenomenaAndSelfOrganization/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/GameTheory/GameTheoryAnalysisofConflictMyerson2013.pdf filter=lfs diff=lfs merge=lfs -text
+literature/GameTheory/GameTheoryanditsApplicationsinTheSocialandBiologicalSciencesColmman2ed2003.pdf filter=lfs diff=lfs merge=lfs -text
