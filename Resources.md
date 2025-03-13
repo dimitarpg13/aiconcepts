@@ -304,6 +304,10 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Solving Math Word Problems with Process- and Outcome-based Feedback, Jonathan Uesato et al, Google DeepMind, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+### Agentic AI
+
+* [Towards an AI co-scientist, Juraj Gottweis et al, Google DeepMind, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AgenticAI/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf)
+
 ### General advances in Large Language Models using Transformer-based Architectures
 
 * [AI models collapse when trained on recursively generated data, I. Shumailov et al, Nature, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AI_models_collapse_when_trained_on_recursively_generated_data_Shumailov_2024.pdf)
