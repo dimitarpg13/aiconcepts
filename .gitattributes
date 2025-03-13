@@ -149,3 +149,4 @@ literature/LLM/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs d
 literature/EmergentPhenomenaAndSelfOrganization/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GameTheory/GameTheoryAnalysisofConflictMyerson2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GameTheory/GameTheoryanditsApplicationsinTheSocialandBiologicalSciencesColmman2ed2003.pdf filter=lfs diff=lfs merge=lfs -text
+literature/LLM/AgenticAI/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf filter=lfs diff=lfs merge=lfs -text
