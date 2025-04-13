@@ -266,7 +266,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction, Blaise Agüera y Arcas et al, Google, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Computational_Life-How_Well-formed_Self-replicating_Programs_Emerge_from_Simple_Interaction_Google_2024.pdf)
 
-* [Intuitive physics understanding emergesfrom self-supervised pretraining on natural videos, Quentin Garrido et al, FAIR Meta, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
+* [Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Quentin Garrido et al, FAIR Meta, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
 
 ### Self-Replication
 
