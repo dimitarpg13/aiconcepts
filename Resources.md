@@ -268,6 +268,9 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Quentin Garrido et al, FAIR Meta, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
 
+* [Emergence of Language in the Developing Brain, Linnea Evanson et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Emergence_of_Language_in_the_Developing_Brain_Evanson_2025.pdf)
+
+
 ### Self-Replication
 
 * [Frontier AI systems have surpassed the self-replicating red line, X. Pan et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Pan_2024.pdf)
@@ -585,8 +588,6 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 * [Theory Is All You Need: AI, Human Cognition, and Decision Making, Teppo Felin, Matthias Holweg, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Theory_Is_All_You_Need-AI_Human_Cognition_and_Decision_Making_Felin_Holweg_2024.pdf)
 
 * [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
-
-* [Emergence of Language in the Developing Brain, Linnea Evanson et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Emergence_of_Language_in_the_Developing_Brain_Evanson_2025.pdf)
 
 ## medium
 
