@@ -586,6 +586,8 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 * [A Path Towards Autonomous Machine Intelligence, Yann LeCun, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/A_Path_Towards_Autonomous_Machine_Intelligence_Yan_LeCunn_2022.pdf)
 
+* [Emergence of Language in the Developing Brain, Linnea Evanson et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Emergence_of_Language_in_the_Developing_Brain_Evanson_2025.pdf)
+
 ## medium
 
 * [Understanding Large Language Models: The Physics of (Chat)GPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
