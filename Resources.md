@@ -287,6 +287,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
+* [The Disembodied Oracle: Why Lack of Embodiment is a Fundamental Problem for LLMs? Alphanome.AI, 2025](https://www.alphanome.ai/post/the-disembodied-oracle-why-lack-of-embodiment-is-a-fundamental-problem-for-llms)
+
 ### Converging Representations
 
 * [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
