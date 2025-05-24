@@ -293,6 +293,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
 
+* [Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornell U., 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
+
 ### Human-like reasoning and Representation Learning in Large Language Models
 
 * [Reasoning Language Models: A Blueprint, M. Besta et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf)
