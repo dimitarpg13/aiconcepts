@@ -99,6 +99,8 @@
 * [Experimental validation of the free-energy
 principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brain Science, Research Center for Advanced Science and Technology, U of Tokyo, UCL, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/FreeEnergyPrinciple/Experimental_validation_of_the_free-energy_principle_with_in_vitro_neural_networks_Isomura_2023.pdf)
 
+* [Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
+
 
 ### Quantum Cognition, Quantum Consciousness, Epistemology of the Quantum Laws
 
@@ -269,6 +271,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [Intuitive physics understanding emerges from self-supervised pretraining on natural videos, Quentin Garrido et al, FAIR Meta, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Intuitive_physics_understanding_emerges_from_self-supervised_pretraining_on_natural_videos_Garrido_2025.pdf)
 
 * [Emergence of Language in the Developing Brain, Linnea Evanson et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Emergence_of_Language_in_the_Developing_Brain_Evanson_2025.pdf)
+
+* [Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
 
 
 ### Self-Replication
