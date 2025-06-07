@@ -118,6 +118,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Consciousness and the Universe: Quantum Physics, Evolution, Brain and Mind, collection of articles, Editor: R. Penrose](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/Consciousness_and_the_Universe_Roger_Penrose.pdf)
 
+* [Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures, N. S. Babcock et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/kurian-et-al-2024-ultraviolet-superradiance-from-mega-networks-of-tryptophan-in-biological-architectures.pdf)
+
 #### Epistemic Interpretations of the Quantum Laws 
 
 * [A simple quantum model linked to a theory of decisions, Inge S Helland, U. of Oslo, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/A_simple_quantum_model_linked_to_a_theory_of_decisions_Helland.pdf)

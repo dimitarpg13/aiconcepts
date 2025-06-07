@@ -58,3 +58,5 @@ Critique on the [Penrose-Lucas argument](https://en.wikipedia.org/wiki/Penrose%E
 [Penrose's Philisophical Error, L.J. Landau, Kings College London](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/PenrosePhilosophicalError_Landau.pdf)
 
 [Penrose Goedelian Argument, S. Feferman, Stanford](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/penrose_goedelian_argument_feferman_stanford.pdf)
+
+[Comment of Dennis O. on Linkedin](https://www.linkedin.com/posts/denis-o-b61a379a_ai-activity-7335462216227328001-ng8w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk) on Babcock's paper from 2024 [Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures, N. S. Babcock et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/QuantumCognition/kurian-et-al-2024-ultraviolet-superradiance-from-mega-networks-of-tryptophan-in-biological-architectures.pdf)
