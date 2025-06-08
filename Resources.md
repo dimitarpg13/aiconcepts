@@ -43,6 +43,8 @@
 
   related paper: [Selection of experience for memory by hippocampal sharp wave ripples, Wannan Yang et al, Science, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Selection_of_experience_for_memory_by_hippocampal_sharp_wave_ripples_Yang_2024.pdf)
 
+* [Not just neurons: The diverse cellular landscape of learning and memory, Cristina M. Alberini, Cell, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Not_just_neurons-The_diverse_cellular_landscape_of_learning_and_memory_Alberini_2025.pdf)
+
 ## Physics-Inspired Modeling
 
 ### Physics-inspired modeling in Deep Neural Nets
