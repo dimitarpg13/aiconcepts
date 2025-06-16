@@ -278,7 +278,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
 
-
+* [Large Language Models and Emergence: A Complex Systems Perspective, David C. Krakauer et al, JHU, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Large_Language_Models_and_Emergence-A_Complex_Systems_Perspective_Krakauer_2025.pdf)
 ### Self-Replication
 
 * [Frontier AI systems have surpassed the self-replicating red line, X. Pan et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Pan_2024.pdf)
