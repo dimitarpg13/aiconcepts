@@ -176,3 +176,4 @@ literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/kleiman-weine
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/köster-et-al-tabula-rasa-agents-display-emergent-in-group-behavior.pdf filter=lfs diff=lfs merge=lfs -text
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/mcavoy-et-al-unilateral-incentive-alignment-in-two-agent-stochastic-games.pdf filter=lfs diff=lfs merge=lfs -text
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/sehwag-et-al-collective-artificial-intelligence-and-evolutionary-dynamics.pdf filter=lfs diff=lfs merge=lfs -text
+literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/terrucha-et-al-humans-program-artificial-delegates-to-accurately-solve-collective-risk-dilemmas-but-lack-precision.pdf filter=lfs diff=lfs merge=lfs -text
