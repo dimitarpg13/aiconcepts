@@ -172,3 +172,4 @@ literature/Symmetries/Introduction_to_Symmetry_Analysis_Brian_Cantwell_2002.pdf 
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/bielawski-et-al-heterogeneity-reinforcement-learning-and-chaos-in-population-games.pdf filter=lfs diff=lfs merge=lfs -text
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/duéñez-guzmán-et-al-perceptual-interventions-ameliorate-statistical-discrimination-in-learning-agents.pdf filter=lfs diff=lfs merge=lfs -text
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/garcía-traulsen-picking-strategies-in-games-of-cooperation.pdf filter=lfs diff=lfs merge=lfs -text
+literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/kleiman-weiner-et-al-evolving-general-cooperation-with-a-bayesian-theory-of-mind.pdf filter=lfs diff=lfs merge=lfs -text
