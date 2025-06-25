@@ -170,3 +170,4 @@ literature/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_In
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/barfuss-et-al-collective-cooperative-intelligence.pdf filter=lfs diff=lfs merge=lfs -text
 literature/Symmetries/Introduction_to_Symmetry_Analysis_Brian_Cantwell_2002.pdf filter=lfs diff=lfs merge=lfs -text
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/bielawski-et-al-heterogeneity-reinforcement-learning-and-chaos-in-population-games.pdf filter=lfs diff=lfs merge=lfs -text
+literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/duéñez-guzmán-et-al-perceptual-interventions-ameliorate-statistical-discrimination-in-learning-agents.pdf filter=lfs diff=lfs merge=lfs -text
