@@ -278,7 +278,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
 
-
+* [Large Language Models and Emergence: A Complex Systems Perspective, David C. Krakauer et al, JHU, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Large_Language_Models_and_Emergence-A_Complex_Systems_Perspective_Krakauer_2025.pdf)
 ### Self-Replication
 
 * [Frontier AI systems have surpassed the self-replicating red line, X. Pan et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Pan_2024.pdf)
@@ -297,6 +297,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [The Disembodied Oracle: Why Lack of Embodiment is a Fundamental Problem for LLMs? Alphanome.AI, 2025](https://www.alphanome.ai/post/the-disembodied-oracle-why-lack-of-embodiment-is-a-fundamental-problem-for-llms)
 
+* [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Causal Recursive Compression and Algorithmic Probability, Alberto Hernández-Espinosa et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_Intelligence_Based_On_the_Principles_of_Causal_Recursive_Compression_and_Algorithmic_Probability_Espinoza_2025.pdf)
+
 ### Converging Representations
 
 * [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
@@ -308,6 +310,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
 
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
+
+* [The Illusion of the Illusion of Thinking: A Comment on Shojaee et al. (2025), C. Opus, A. Lawsen, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Comment_on_The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Opus_2025.pdf)
 
 * [Reasoning Language Models: A Blueprint, M. Besta et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf)
 

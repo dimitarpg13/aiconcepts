@@ -3,7 +3,7 @@
 
 The viewpoint of **Roger Penrose** that consciousness is quantum phenomenon and a bi-product of the way Quantum Mechanics works:
 
-Youtube links: [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consciousness-quantum-linked-puzzle-x-keynote-talk), [here](https://youtu.be/TfouEFuB-co), and [here](https://youtu.be/xGbgDf4HCHU)
+Youtube links: [here](https://youtu.be/iTVN6tFknCg?si=FeYaeWrzIwDUfGCw), [here](https://qspace.fqxi.org/videos/297/roger-penrose-are-consciousness-quantum-linked-puzzle-x-keynote-talk), [here](https://youtu.be/TfouEFuB-co), and [here](https://youtu.be/xGbgDf4HCHU)
 
 **Stuart Hameroff**'s biological insights relate to Roger Penrose's stipulations that Consciousness is quantum phenomenon. More on Stuart Hameroff' take on Consciousness and what is causing it: links [here](https://youtu.be/nJssLyvqG9o), [here](https://youtu.be/tkECK3RzEPM) and [here](https://youtu.be/Q6gpp70yvgo)
 
