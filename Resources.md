@@ -307,6 +307,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ### Human-like reasoning and Representation Learning in Large Language Models
 
+* [Energy-Based Transformers are Scalable Learners and Thinkers, Alexi Gladstone et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Transformers/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf)
+
 * [A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
 
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
