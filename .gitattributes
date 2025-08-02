@@ -179,3 +179,4 @@ literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/sehwag-et-al-
 literature/CollectiveArtificialIntelligenceAndEvolutionaryDynamics/terrucha-et-al-humans-program-artificial-delegates-to-accurately-solve-collective-risk-dilemmas-but-lack-precision.pdf filter=lfs diff=lfs merge=lfs -text
 literature/Transformers/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/Spinors/Clifford_Neural_Layers_for_PDE_Modeling_Brandstetter_2023.pdf filter=lfs diff=lfs merge=lfs -text
+literature/Spinors/Geometric_Clifford_Algebra_Networks_Ruhe_2023.pdf filter=lfs diff=lfs merge=lfs -text
