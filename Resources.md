@@ -507,6 +507,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Spinnors, A. Steanne, Oxford U., 2010 (book chapter)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/rel_C_spinors.pdf)
 
+* [A Novel Spinor-Based Embedding Model for Transformers, Rick White, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_Novel_Spinor-Based_Embedding_Model_for_Transformers_White_2024.pdf)
+
 ### Quaternions, Diophantine Analsys, topics from Number Theory
 
 * [Diophantine Analysis, R. Carmichael, 2006](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/PythagoreanNtuplesAndQuaternions/DiophantineAnalysisCarmichael.pdf)
