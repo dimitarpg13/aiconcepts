@@ -194,3 +194,4 @@ literature/StandardModelOfTheMind/Experimental_and_Theoretical_Approaches_to_Con
 literature/StandardModelOfTheMind/Integrated_information_theory-from_consciousness_to_its_physical_substrate_Tononi_2016.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GeneticAlgorithms/An_Introduction_to_Genetic_Algorithms-Melanie_Mitchell_2016.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GeneticAlgorithms/Evolutionary-Deep-Learning-by-Michael-Lanham.pdf filter=lfs diff=lfs merge=lfs -text
+literature/GeneticAlgorithms/Genetic_Algorithms_and_Genetic_Programming_Affenzeller.pdf filter=lfs diff=lfs merge=lfs -text
