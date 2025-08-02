@@ -444,6 +444,9 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Theory of Games and Statistical Decisions, David Blackwell, 1954](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/TheoryofGamesAndStatisticalDecisionsBlackwell1954.pdf)
 
+* [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
+
+
 ### Logic Systems 
 
 * [Introduction to Mathematical Logic, Elliott Mendelson, 2015](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LogicSystems/Mendelson_Introduction_to_Mathematical_Logic_6th_Ed_2015.pdf)
@@ -493,8 +496,6 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [On The Wonderfulness of Noether's Theorem, 100 years later, and Routh Reduction, Leone, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/NoetherTheoremAndSymmetryGroups/On_the_wonderfulness_of_Noethers_theorems_100_years_later_and_Routh_reduction_Leone_2018.pdf)
 
-* [Mathematical Foundations of Game Theory, Rida Laraki, Jerome Renault, Sylvain Sorin, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/GameTheory/Mathematical_Foundations_of_Game_Theory_Laraki_2019.pdf)
-
 ### Spinors
 
 * [The Mystery of Spinors, Richard Behiel, 2024, youtube video](https://youtu.be/b7OIbMCIfs4)
@@ -507,7 +508,25 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Spinnors, A. Steanne, Oxford U., 2010 (book chapter)](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/rel_C_spinors.pdf)
 
+* [Introducing CliffordLayers: Neural Network layers inspired by Clifford / Geometric Algebras, Microsoft blog, March 9, 2023](https://www.microsoft.com/en-us/research/articles/introducing-cliffordlayers-neural-network-layers-inspired-by-clifford-geometric-algebras/)
+
+* [Modeling Dynamical Systems with Geometric Clifford Algebra Networks, TransferLab AI blog, Oct 23, 2023](https://transferlab.ai/pills/2023/geometric-clifford-network/)
+
+* [Geometric Clifford Algebra Networks and Clifford Neural Layers for PDE Modeling, Valence Labs, youtube video, 2023](https://youtu.be/VXziLgMIWf8?si=yMEgtGPQ9JVanqeb)
+
+* [GAME23 Johannes Branstetter - Geometric Clifford Algebra Networks, Bivector, youtube video, 2024](https://youtu.be/O9BEc72Y1AI?si=_lW081iEabcb0WOQ)
+
+* [Clifford Neural Layers for PDE Modeling, Johannes Brandstetter et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Clifford_Neural_Layers_for_PDE_Modeling_Brandstetter_2023.pdf)
+
+* [Representing Words in a Geometric Algebra, Arjun Mani, Princeton U., 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Representing_Words_in_a_Geometric_Algebra_Mani_2022.pdf)
+
+* [New Applications of Clifford's Geometric Algebra, Kanta Tachibana et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/New_Applications_of_Cliffords_Geometric_Algebra_Tachibana_2022.pdf)
+
+* [Geometric Clifford Algebra Networks, David Ruhe et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Geometric_Clifford_Algebra_Networks_Ruhe_2023.pdf)
+
 * [A Novel Spinor-Based Embedding Model for Transformers, Rick White, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/A_Novel_Spinor-Based_Embedding_Model_for_Transformers_White_2024.pdf)
+
+* [Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes, Dimitris Angelis, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Spinors/Geometric_Algebra_Meets_Large_Language_Models-Instruction-Based_Transformations_of_Separate_Meshes_in_3D_Interactive_and_Controllable_Scenes_Angelis_2024.pdf)
 
 ### Quaternions, Diophantine Analsys, topics from Number Theory
 
