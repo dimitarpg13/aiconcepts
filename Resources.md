@@ -74,6 +74,8 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 [Experimental and Theoretical Approaches to Conscious Processing, Stanislas Dehaene and Jean-Pierre Changeux, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Experimental_and_Theoretical_Approaches_to_Conscious_Processing_Dehaene_2011.pdf)
 
+[Dynamic Causal Modeling, Wiki](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)
+
 ### Integrated Information Theory of Consciousness
 
 [What is Integrated Information Theory of Consciousness? A Catalgue of Questions, Adam Pautz, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/What_is_the_Integrated_Information_Theory_of_Consciousness_Pautz_2019.pdf)
