@@ -115,7 +115,9 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [The Induction of Dynamical Recognizers, Jordan B. Pollack, OSU, 1991](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/RNN/the_induction_of_dynamical_recognizers_pollack_1991.pdf)
 
-### Bayesian Mechanics
+### Bayesian Beliefs and Bayesian Mechanics
+
+* [Precis of Bayesian Rationality: The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, Behavioral and Brain Sciences, 2009](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianInference/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_2009.pdf)
 
 * [On Bayesian Mechanics: A Physics of and by Beliefs, M. Ramstead et al, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/BayesianMechanics/On_Bayesian_Mechanics-A_Physics_of_and_by_Beliefs_Ramstead_UCL_StonyBrook_NortheasternU_2023.pdf)
 
