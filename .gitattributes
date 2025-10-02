@@ -197,3 +197,4 @@ literature/GeneticAlgorithms/Evolutionary-Deep-Learning-by-Michael-Lanham.pdf fi
 literature/GeneticAlgorithms/Genetic_Algorithms_and_Genetic_Programming_Affenzeller.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GeneticAlgorithms/an-introduction-to-genetic-algorithms-for-scientists-and-engineers.pdf filter=lfs diff=lfs merge=lfs -text
 literature/GeneticAlgorithms/genetic-algorithms-with-python.pdf filter=lfs diff=lfs merge=lfs -text
+literature/BayesianInference/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_2009.pdf filter=lfs diff=lfs merge=lfs -text
