@@ -374,6 +374,16 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Solving Math Word Problems with Process- and Outcome-based Feedback, Jonathan Uesato et al, Google DeepMind, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+### Semantic Modeling in LLMs
+
+* [Forking Paths in Neural Text Generation, Eric Bigelow et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/semantic_simulation/Forking_Paths_in_Neural_Text_Generation_Bigelow_2024.pdf)
+
+* [Are language models aware of the road not taken? Token-level uncertainty and hidden state dynamics, Amir Zur et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/semantic_simulation/Are_language_models_aware_of_the_road_not_taken_Token-level_uncertainty_and_hidden_state_dynamics_Zur_2025.pdf)
+
+* [Deep sequence models tend to memorize geometrically; it is unclear why, Shahriar Noroozizadeh et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/semantic_simulation/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_Noroozizadeh_2025.pdf)
+
+* [Continuous Autoregressive Language Models, C Shao et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/semantic_simulation/Continuous_AutoRegressive_Language_Models_Shao_2025.pdf)
+
 ### Agentic AI
 
 * [Towards an AI co-scientist, Juraj Gottweis et al, Google DeepMind, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AgenticAI/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf)
