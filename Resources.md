@@ -51,30 +51,30 @@ Separate markdown [here](https://github.com/dimitarpg13/aiconcepts/blob/master/T
 
 ## Toward a Standard Model of Consciousness
 
-[Mapping Neural Theories of Consciousness onto the Common Model of Cognition](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Mapping_Neural_Theories_of_Consciousness_onto_the_Common_Model_of_Cognition_Rosenbloom_2025.pdf)
+* [Mapping Neural Theories of Consciousness onto the Common Model of Cognition](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Mapping_Neural_Theories_of_Consciousness_onto_the_Common_Model_of_Cognition_Rosenbloom_2025.pdf)
 
-[A Cognitive Theory of Consciousness, Bernard J. Baars, 1988](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Baars-A_Cognitive_Theory_of_Consciousness.pdf)
+* [A Cognitive Theory of Consciousness, Bernard J. Baars, 1988](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Baars-A_Cognitive_Theory_of_Consciousness.pdf)
 
-[A landscape of consciousness: Toward a taxonomy of explanations
+* [A landscape of consciousness: Toward a taxonomy of explanations
 and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/A_landscape_of_consciousness-Toward_a_taxonomy_of_explanations_and_implications_Kuhn_2023.pdf)
 
-[A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications, I. Kotseruba et al, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/A_Review_of_40_Years_of_Cognitive_Architecture_Research-Core_Cognitive_Abilities_and_Practical_Applications_Kotseruba_2018.pdf)
+* [A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications, I. Kotseruba et al, 2018](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/A_Review_of_40_Years_of_Cognitive_Architecture_Research-Core_Cognitive_Abilities_and_Practical_Applications_Kotseruba_2018.pdf)
 
-[An integrative, multiscale view on neural theories of consciousness, Johan F. Storm et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/An_integrative_multiscale_view_on_neural_theories_of_consciousness_Storm_2024.pdf)
+* [An integrative, multiscale view on neural theories of consciousness, Johan F. Storm et al, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/An_integrative_multiscale_view_on_neural_theories_of_consciousness_Storm_2024.pdf)
 
-[A Standard Model of the Mind: Toward a Common Computational Framework Across Artificial Intelligence, Cognitive Science, Neuroscience, and Robotics](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/laird.standard.aimag.2017.pdf)
+* [A Standard Model of the Mind: Toward a Common Computational Framework Across Artificial Intelligence, Cognitive Science, Neuroscience, and Robotics](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/laird.standard.aimag.2017.pdf)
 
-[Theories of Consciousness, Anil Seth and Tim Bayne, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Theories_of_Consciousness_Seth_and_Bayne_2022.pdf)
+* [Theories of Consciousness, Anil Seth and Tim Bayne, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Theories_of_Consciousness_Seth_and_Bayne_2022.pdf)
 
-[What is neurorepresentationalism? From neural activity and predictive processing to multi-level representations and consciousness, Cyriel M.A. Pennartz, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/What_is_neurorepresentationalism_From_neural_activity_and_predictive_processing_to_multi-level_representations_and_consciousness_Pennartz_2022.pdf)
+* [What is neurorepresentationalism? From neural activity and predictive processing to multi-level representations and consciousness, Cyriel M.A. Pennartz, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/What_is_neurorepresentationalism_From_neural_activity_and_predictive_processing_to_multi-level_representations_and_consciousness_Pennartz_2022.pdf)
 
-[Cellular Mechanisms of Conscious Processing, Jaan Aru et al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Cellular_Mechanisms_of_Conscious_Processing_Aru_2020.pdf)
+* [Cellular Mechanisms of Conscious Processing, Jaan Aru et al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Cellular_Mechanisms_of_Conscious_Processing_Aru_2020.pdf)
 
-[Analysis of the Human Connectome Data Supports the Notion of A “Common Model of Cognition” for Human and Human-Like Intelligence, Andrea Stocco et al, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Analysis_of_the_Human_Connectome_Data_Supports_the_Notion_of_A_Common_Model_of_Cognition_for_Human_and_Human-Like_Intelligence_Stoco_2019.pdf)
+* [Analysis of the Human Connectome Data Supports the Notion of A “Common Model of Cognition” for Human and Human-Like Intelligence, Andrea Stocco et al, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Analysis_of_the_Human_Connectome_Data_Supports_the_Notion_of_A_Common_Model_of_Cognition_for_Human_and_Human-Like_Intelligence_Stoco_2019.pdf)
 
-[Experimental and Theoretical Approaches to Conscious Processing, Stanislas Dehaene and Jean-Pierre Changeux, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Experimental_and_Theoretical_Approaches_to_Conscious_Processing_Dehaene_2011.pdf)
+* [Experimental and Theoretical Approaches to Conscious Processing, Stanislas Dehaene and Jean-Pierre Changeux, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Experimental_and_Theoretical_Approaches_to_Conscious_Processing_Dehaene_2011.pdf)
 
-[Dynamic Causal Modeling, Wiki](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)
+* [Dynamic Causal Modeling, Wiki](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)
 
 ### Integrated Information Theory of Consciousness
 
