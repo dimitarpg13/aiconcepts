@@ -206,3 +206,4 @@ literature/RenormalizationGroup/A_Deep_Dive_into_the_Connections_Between_the_Ren
 literature/RenormalizationGroup/bauerschmidt_brydges_slade_book.pdf filter=lfs diff=lfs merge=lfs -text
 literature/RenormalizationGroup/Introduction_to_Renormalisation_Melo_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/RenormalizationGroup/Tutorial_on_The_Ising_Model_UBC_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/RenormalizationGroup/Tutorial_on_The_Renormalization_Group_and_the_Ising_Model_UBC_2024.pdf filter=lfs diff=lfs merge=lfs -text
