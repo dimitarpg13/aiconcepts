@@ -78,13 +78,13 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 ### Integrated Information Theory of Consciousness
 
-[What is Integrated Information Theory of Consciousness? A Catalgue of Questions, Adam Pautz, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/What_is_the_Integrated_Information_Theory_of_Consciousness_Pautz_2019.pdf)
+* [What is Integrated Information Theory of Consciousness? A Catalgue of Questions, Adam Pautz, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/What_is_the_Integrated_Information_Theory_of_Consciousness_Pautz_2019.pdf)
 
-[Integrated information theory: from consciousness to its physical substrate, Giulio Tononi, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Integrated_information_theory-from_consciousness_to_its_physical_substrate_Tononi_2016.pdf)
+* [Integrated information theory: from consciousness to its physical substrate, Giulio Tononi, 2016](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/StandardModelOfTheMind/Integrated_information_theory-from_consciousness_to_its_physical_substrate_Tononi_2016.pdf)
 
-[Integrated Information Theory 4.0: Formulating the properties of phenomenal existence in physical terms, Larissa Albantakis et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/Integrated_information_theory_4.0-Formulating_the_properties_of_phenomenal_existence_in_physical_terms_Albantakis_2022.pdf)
+* [Integrated Information Theory 4.0: Formulating the properties of phenomenal existence in physical terms, Larissa Albantakis et al, 2022](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/Integrated_information_theory_4.0-Formulating_the_properties_of_phenomenal_existence_in_physical_terms_Albantakis_2022.pdf)
 
-[The Mathematical Structure of the Integrated Information Theory, Johannes Kleiner and John Tull, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/The_Mathematical_Structure_of_Integrated_Information_Theory_Kleiner_2020.pdf)
+* [The Mathematical Structure of the Integrated Information Theory, Johannes Kleiner and John Tull, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/The_Mathematical_Structure_of_Integrated_Information_Theory_Kleiner_2020.pdf)
 
 ## Physics-Inspired Modeling
 
