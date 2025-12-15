@@ -86,6 +86,14 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [The Mathematical Structure of the Integrated Information Theory, Johannes Kleiner and John Tull, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/The_Mathematical_Structure_of_Integrated_Information_Theory_Kleiner_2020.pdf)
 
+### ALARM Theory of Consciousness
+
+* [The ALARM Theory of Consciousness, Albert Newen, Carlos Montemayor, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/The_ALARM_Theory_of_Consciousness_Newen_Montemayor_2023.pdf)
+
+* [Three types of phenomenal consciousness and their functional roles: unfolding the ALARM theory of consciousness, Albert Newen, Carlos Montemayor, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/Three_types_of_phenomenal_consciousness_and_their_functional_roles-unfolding_the_ALARM_theory_of_consciousness_Newen_2025.pdf)
+
+* [Conscious birds, Gianmarco Maldarelli ,Onur Güntürkün, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/Conscious_birds_Maldarelli_2025.pdf)
+
 ## Physics-Inspired Modeling
 
 ### Physics-inspired modeling in Deep Neural Nets
