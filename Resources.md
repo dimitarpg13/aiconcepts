@@ -76,7 +76,7 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [Dynamic Causal Modeling, Wiki](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)
 
-### Integrated Information Theory of Consciousness
+### Integrated Information Theory (IIT) of Consciousness
 
 * [What is Integrated Information Theory of Consciousness? A Catalgue of Questions, Adam Pautz, 2019](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/IntegratedInformationTheory/What_is_the_Integrated_Information_Theory_of_Consciousness_Pautz_2019.pdf)
 
@@ -92,13 +92,13 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [Three types of phenomenal consciousness and their functional roles: unfolding the ALARM theory of consciousness, Albert Newen, Carlos Montemayor, 2023](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/Three_types_of_phenomenal_consciousness_and_their_functional_roles-unfolding_the_ALARM_theory_of_consciousness_Newen_2025.pdf)
 
-### Global Neural Workspace Theory
+### Global Neural Workspace Theory (GNWT)
 
 * [The Global Neuronal Workspace Model of Conscious Access: From Neuronal Architectures to Clinical Applications, Stanislas Dehaene, Jean-Pierre Changeux, and Lionel Naccache, 2011](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Global_Neuronal_Workspace_Model_of_Consciousness/The_Global_Neuronal_Workspace_Model_of_Conscious_Access-From_Neuronal_Architectures_to_Clinical_Applications_Dehaene_Changeaux_Naccache_2011.pdf)
 
 * [Conscious Processing and the Global Neuronal Workspace Hypothesis, George Mashour et al, 2020](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Global_Neuronal_Workspace_Model_of_Consciousness/Conscious_Processing_and_the_Global_Neuronal_Workspace_Hypothesis_Mashour_2020.pdf)
 
-### Recursive Processing Theory
+### Recursive Processing Theory (RPT)
 
 * [Neural Darwinism: Selection and Reentrant Signaling in Higher Brain Function, Gerald M. Edelman, 1992](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Recurrent_Processing_Theory_of_Consciousness/Neural_Darwinism-Selection_and_Reentrant_Signaling_in_Higher_Brain_Function_Edelman_1993.pdf)
 
@@ -106,7 +106,7 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [How neuroscience will change our view on consciousness, Victor A.F. Lamme, 2010](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/Recurrent_Processing_Theory_of_Consciousness/Lamme-How_Neurosci_Will_Change_Our_View_of_Consciousness-2010.pdf)
 
-### Consciousness as cobination of IIT, GNWT and RP
+### Consciousness as cobination of IIT, GNWT and RPT
 
 * [Conscious birds, Gianmarco Maldarelli ,Onur Güntürkün, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/Conscious_birds_Maldarelli_2025.pdf)
 
