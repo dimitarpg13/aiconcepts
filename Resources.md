@@ -94,6 +94,8 @@ and implications, Robert Lawrence Kuhn, 2024](https://github.com/dimitarpg13/aic
 
 * [Conscious birds, Gianmarco Maldarelli ,Onur Güntürkün, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/ALARM_theory_of_consciousness/Conscious_birds_Maldarelli_2025.pdf)
 
+* [Why Did Consciousness Evolve? Exciting Research on Bird Brains, A. Petrov, 2025 (youtube video)](https://www.youtube.com/watch?v=OlnioeAtloY)
+
 ## Physics-Inspired Modeling
 
 ### Physics-inspired modeling in Deep Neural Nets
