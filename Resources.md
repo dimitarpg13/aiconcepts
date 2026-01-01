@@ -391,6 +391,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
+* [Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis, C. Li et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf)
+
 * [The Disembodied Oracle: Why Lack of Embodiment is a Fundamental Problem for LLMs? Alphanome.AI, 2025](https://www.alphanome.ai/post/the-disembodied-oracle-why-lack-of-embodiment-is-a-fundamental-problem-for-llms)
 
 * [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Causal Recursive Compression and Algorithmic Probability, Alberto Hernández-Espinosa et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_Intelligence_Based_On_the_Principles_of_Causal_Recursive_Compression_and_Algorithmic_Probability_Espinoza_2025.pdf)
@@ -400,6 +402,8 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
 
 * [Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornell U., 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
+
+* [Universally Converging Representations of Matter Across Scientific Foundation Models, S. Edamaka et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/Universally_Converging_Representations_of_Matter_Across_Scientific_Foundation_Models_Edamadaka_2025.pdf)
 
 ### Human-like reasoning and Representation Learning in Large Language Models
 
