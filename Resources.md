@@ -375,6 +375,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 * [Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
 
 * [Large Language Models and Emergence: A Complex Systems Perspective, David C. Krakauer et al, JHU, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Large_Language_Models_and_Emergence-A_Complex_Systems_Perspective_Krakauer_2025.pdf)
+
 ### Self-Replication
 
 * [Frontier AI systems have surpassed the self-replicating red line, X. Pan et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/EmergentPhenomenaAndSelfOrganization/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Pan_2024.pdf)
@@ -391,11 +392,16 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 ## Recent Advances in Large Language Models and Transformer-based architectures
 
-* [Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis, C. Li et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf)
-
 * [The Disembodied Oracle: Why Lack of Embodiment is a Fundamental Problem for LLMs? Alphanome.AI, 2025](https://www.alphanome.ai/post/the-disembodied-oracle-why-lack-of-embodiment-is-a-fundamental-problem-for-llms)
 
 * [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Causal Recursive Compression and Algorithmic Probability, Alberto Hernández-Espinosa et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_Intelligence_Based_On_the_Principles_of_Causal_Recursive_Compression_and_Algorithmic_Probability_Espinoza_2025.pdf)
+
+### Geometric Deep Learning
+
+* [Deep sequence models tend to memorize geometrically; it is unclear why. S. Noroozizadeh et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/DeepLearning/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_Noroozizadeh_2025.pdf)
+
+* [Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis, C. Li et al, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf)
+
 
 ### Converging Representations
 
@@ -445,7 +451,7 @@ principle with in vitro neural networks, T. Isomura et al, RIKEN Center for Brai
 
 * [Towards an AI co-scientist, Juraj Gottweis et al, Google DeepMind, 2025](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AgenticAI/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf)
 
-### General advances in Large Language Models using Transformer-based Architectures
+### Transformer-based Architectures
 
 * [AI models collapse when trained on recursively generated data, I. Shumailov et al, Nature, 2024](https://github.com/dimitarpg13/aiconcepts/blob/master/literature/LLM/AI_models_collapse_when_trained_on_recursively_generated_data_Shumailov_2024.pdf)
 
